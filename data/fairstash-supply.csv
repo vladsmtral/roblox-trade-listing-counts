@@ -1,8 +1,9 @@
 # FairStash — how many people were offering each item, by day
 # https://fairstash.app/data — CC BY 4.0, please credit fairstash.app
 # Listings source: Traderie, counted in Traderie's 1,546 newest listings.
-# A row is written when the count changed. A value holds until the next row for that
-# item, so a missing day means "same as before", not "unknown".
+# A missing day is not a zero and not a measurement. It means one of two things: the
+# count did not change, or the item had no listing in that day's window at all. An
+# observed zero is written as a row with selling=0.
 # Days checked so far: adopt-me 3, ftf 12, mm2 3.
 # selling is an observation: 0 means nobody was offering it that day.
 # buying empty means we were not recording that number yet, not that it was zero.
