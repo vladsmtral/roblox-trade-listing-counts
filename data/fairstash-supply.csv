@@ -7,7 +7,7 @@
 # A missing day is not a zero and not a measurement. It means one of two things: the
 # count did not change, or the item had no listing in that day's window at all. An
 # observed zero is written as a row with selling=0.
-# Days checked so far: adopt-me 26, ftf 32, mm2 23.
+# Days checked so far: adopt-me 27, ftf 32, mm2 23.
 # selling counts how much of that day’s window the item filled. 0 means none turned up,
 # which is weaker than “none were on offer”: the window is the marketplace’s most
 # recently updated listings, and on a busy game it covers well under an hour.
@@ -701,37 +701,37 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-06,1,
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-06,1,
 adopt-me,Zombie Chick,zombie-chick,2026-09-06,1,
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-06,5,
-adopt-me,Ship in a Bottle Throw Toy,,2026-09-06,1,
-adopt-me,Mrs. Whiskerpips,,2026-09-06,1,
-adopt-me,Huntsman Robin,huntsman-robin,2026-09-06,11,
-adopt-me,Stocked Santa Sleigh,,2026-09-06,2,
-adopt-me,2D Wings,,2026-09-06,1,
-adopt-me,Cloud Grappling Hook,,2026-09-06,1,
-adopt-me,Stormy Grappling Hook,,2026-09-06,1,
-adopt-me,Pistachio,,2026-09-06,1,
-adopt-me,Personal Sheepdog Car,,2026-09-06,2,
-adopt-me,Ms. Muffet,ms-muffet,2026-09-06,4,
-adopt-me,Pride Sticker Pack ,,2026-09-06,1,
-adopt-me,Budgie Witch,budgie-witch,2026-09-06,1,
-adopt-me,Princess Mare,princess-mare,2026-09-06,5,
-adopt-me,Summer Camp 2026 Sticker Pack,,2026-09-06,2,
-adopt-me,Lucky Clover Glasses,,2026-09-06,1,
-adopt-me,Stygian Hang Glider,,2026-09-06,2,
-adopt-me,Fairytale Egg,fairytale-egg,2026-09-06,5,
-adopt-me,Mr. Whiskerpips,,2026-09-06,1,
-adopt-me,Busy Body Potion,,2026-09-06,1,
-adopt-me,Sheepdog Army Hair,,2026-09-06,1,
 adopt-me,Granny Wolf,granny-wolf,2026-09-06,3,
-adopt-me,Sheepdog Fluff,,2026-09-06,1,
-adopt-me,2026 Birthday Sticker,,2026-09-06,1,
-adopt-me,Crimson Cape,crimson-cape,2026-09-06,6,
-adopt-me,Pinkypillar,pinkypillar,2026-09-06,2,
-adopt-me,Fishing Bucket Hat,,2026-09-06,1,
-adopt-me,Fishing Bobber Chew Toy,,2026-09-06,1,
+adopt-me,Ship in a Bottle Throw Toy,,2026-09-06,1,
+adopt-me,Sheepdog Army Hair,,2026-09-06,1,
 adopt-me,Pet/Baby Sitting,,2026-09-06,4,
+adopt-me,Pride Sticker Pack ,,2026-09-06,1,
+adopt-me,Crimson Cape,crimson-cape,2026-09-06,6,
+adopt-me,Ms. Muffet,ms-muffet,2026-09-06,4,
+adopt-me,Lucky Clover Glasses,,2026-09-06,1,
+adopt-me,Huntsman Robin,huntsman-robin,2026-09-06,11,
+adopt-me,Cloud Grappling Hook,,2026-09-06,1,
+adopt-me,2D Wings,,2026-09-06,1,
+adopt-me,Stormy Grappling Hook,,2026-09-06,1,
+adopt-me,Busy Body Potion,,2026-09-06,1,
+adopt-me,Fishing Bobber Chew Toy,,2026-09-06,1,
+adopt-me,Summer Camp 2026 Sticker Pack,,2026-09-06,2,
+adopt-me,Princess Mare,princess-mare,2026-09-06,5,
+adopt-me,Stygian Hang Glider,,2026-09-06,2,
+adopt-me,Pistachio,,2026-09-06,1,
+adopt-me,2026 Birthday Sticker,,2026-09-06,1,
+adopt-me,Mr. Whiskerpips,,2026-09-06,1,
+adopt-me,Sheepdog Fluff,,2026-09-06,1,
 adopt-me,Little Lamb,little-lamb,2026-09-06,3,
+adopt-me,Budgie Witch,budgie-witch,2026-09-06,1,
+adopt-me,Fairytale Egg,fairytale-egg,2026-09-06,5,
+adopt-me,Mrs. Whiskerpips,,2026-09-06,1,
+adopt-me,Stocked Santa Sleigh,,2026-09-06,2,
 adopt-me,Clumpty,clumpty,2026-09-06,1,
+adopt-me,Fishing Bucket Hat,,2026-09-06,1,
+adopt-me,Personal Sheepdog Car,,2026-09-06,2,
 adopt-me,Sneaky Newspaper,,2026-09-06,1,
+adopt-me,Pinkypillar,pinkypillar,2026-09-06,2,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-07,1,0
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-07,1,0
 adopt-me,2025 Birthday Butterfly,2025-birthday-butterfly,2026-09-07,1,0
@@ -1542,32 +1542,32 @@ adopt-me,Zeopod,zeopod,2026-09-07,3,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-07,0,1
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-07,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-07,2,0
-adopt-me,Camp Patch Sash,,2026-09-07,1,
-adopt-me,Sugarfest Slug Sticker,,2026-09-07,1,
-adopt-me,Merhorse Sticker,,2026-09-07,1,
-adopt-me,Standard Sticker Pack ,,2026-09-07,1,
+adopt-me,2D Crown,,2026-09-07,1,
+adopt-me,Eco Blue Recycling Bin Badge,,2026-09-07,1,
 adopt-me,Clubtail Dragonfly Sticker,,2026-09-07,2,
-adopt-me,Tealwood Monster Sticker,,2026-09-07,1,
-adopt-me,Woodpecker Sticker,,2026-09-07,1,
-adopt-me,Bonus Bucks Potion,,2026-09-07,1,
-adopt-me,Chipmunk Sticker,,2026-09-07,2,
-adopt-me,Mr. Whiskerpips,,2026-09-07,1,
 adopt-me,Clubtail Dragonfly Wings,,2026-09-07,1,
 adopt-me,Hawk Sticker,,2026-09-07,1,
-adopt-me,Lighthouse Sticker,,2026-09-07,1,
 adopt-me,Lucky Clover Glasses,,2026-09-07,1,
-adopt-me,Kirin Sticker,,2026-09-07,1,
-adopt-me,Eco White Spider Web Badge,,2026-09-07,1,
-adopt-me,Eco Green Vine Badge,,2026-09-07,1,
+adopt-me,Standard Sticker Pack ,,2026-09-07,1,
+adopt-me,Bonus Bucks Potion,,2026-09-07,1,
+adopt-me,Sugarfest Slug Sticker,,2026-09-07,1,
 adopt-me,Rainbow Trout Sticker,,2026-09-07,1,
-adopt-me,Eco Blue Recycling Bin Badge,,2026-09-07,1,
+adopt-me,Stocked Santa Sleigh,,2026-09-07,1,
+adopt-me,Woodpecker Sticker,,2026-09-07,1,
+adopt-me,Lighthouse Sticker,,2026-09-07,1,
+adopt-me,Camp Patch Sash,,2026-09-07,1,
 adopt-me,Polymorph Potion,,2026-09-07,1,
-adopt-me,2D Crown,,2026-09-07,1,
+adopt-me,Tealwood Monster Sticker,,2026-09-07,1,
 adopt-me,Lemon Frost Pet Paint,,2026-09-07,1,
-adopt-me,Camping Sandals,,2026-09-07,1,
+adopt-me,Merhorse Sticker,,2026-09-07,1,
+adopt-me,Kirin Sticker,,2026-09-07,1,
+adopt-me,Eco Green Vine Badge,,2026-09-07,1,
 adopt-me,Strawberry Santa Snacks,,2026-09-07,1,
 adopt-me,Mrs. Whiskerpips,,2026-09-07,6,
-adopt-me,Stocked Santa Sleigh,,2026-09-07,1,
+adopt-me,Chipmunk Sticker,,2026-09-07,2,
+adopt-me,Eco White Spider Web Badge,,2026-09-07,1,
+adopt-me,Mr. Whiskerpips,,2026-09-07,1,
+adopt-me,Camping Sandals,,2026-09-07,1,
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-08,1,0
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-08,1,0
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-08,1,0
@@ -2487,24 +2487,24 @@ adopt-me,Yule Log Treat,yule-log-treat,2026-09-08,2,0
 adopt-me,Zebra,zebra,2026-09-08,2,0
 adopt-me,Zeopod,zeopod,2026-09-08,4,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-08,1,0
-adopt-me,Chipmunk Sticker,,2026-09-08,1,
-adopt-me,Birthday Cake,,2026-09-08,1,
-adopt-me,Gingerbread House,,2026-09-08,1,
-adopt-me,Interior Design,,2026-09-08,1,
-adopt-me,Water Balloon Sticker,,2026-09-08,1,
-adopt-me,Cabin Crew Hat,,2026-09-08,1,
-adopt-me,Birthday Cake Hat,,2026-09-08,1,
-adopt-me,Camp Patch Sash,,2026-09-08,2,
-adopt-me,Mrs. Whiskerpips,,2026-09-08,3,
-adopt-me,Hawk Sticker,,2026-09-08,2,
-adopt-me,Summer Camp 2026 Sticker Pack,,2026-09-08,1,
-adopt-me,Lighthouse Sticker,,2026-09-08,2,
 adopt-me,Clubtail Dragonfly Sticker,,2026-09-08,1,
-adopt-me,Sheepdog Army Hair,,2026-09-08,1,
-adopt-me,9th Birthday Cupcake,,2026-09-08,1,
+adopt-me,Birthday Cake,,2026-09-08,1,
+adopt-me,Cabin Crew Hat,,2026-09-08,1,
+adopt-me,Aestus Sticker,,2026-09-08,1,
+adopt-me,Birthday Cake Hat,,2026-09-08,1,
+adopt-me,Water Balloon Sticker,,2026-09-08,1,
+adopt-me,Chipmunk Sticker,,2026-09-08,1,
 adopt-me,Campfire Log Sticker,,2026-09-08,1,
 adopt-me,Camping Tent Sticker,,2026-09-08,1,
-adopt-me,Aestus Sticker,,2026-09-08,1,
+adopt-me,Camp Patch Sash,,2026-09-08,2,
+adopt-me,Mrs. Whiskerpips,,2026-09-08,3,
+adopt-me,Summer Camp 2026 Sticker Pack,,2026-09-08,1,
+adopt-me,Interior Design,,2026-09-08,1,
+adopt-me,Lighthouse Sticker,,2026-09-08,2,
+adopt-me,9th Birthday Cupcake,,2026-09-08,1,
+adopt-me,Gingerbread House,,2026-09-08,1,
+adopt-me,Hawk Sticker,,2026-09-08,2,
+adopt-me,Sheepdog Army Hair,,2026-09-08,1,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-09,1,0
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-09,2,0
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-09,1,0
@@ -3468,15 +3468,15 @@ adopt-me,Zebra Sticker,zebra-sticker,2026-09-09,1,0
 adopt-me,Zeopod,zeopod,2026-09-09,2,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-09,1,0
 adopt-me,Mrs. Whiskerpips,,2026-09-09,5,
+adopt-me,Lighthouse Sticker,,2026-09-09,1,
 adopt-me,Stocked Santa Sleigh,,2026-09-09,2,
+adopt-me,Lucky Clover Glasses,,2026-09-09,2,
 adopt-me,Chipmunk Sticker,,2026-09-09,2,
 adopt-me,Sheepdog Army Hair,,2026-09-09,2,
-adopt-me,Lighthouse Sticker,,2026-09-09,1,
-adopt-me,Lucky Clover Glasses,,2026-09-09,2,
-adopt-me,Sugarfest Slug Sticker,,2026-09-09,2,
 adopt-me,2D Crown,,2026-09-09,2,
-adopt-me,Clubtail Dragonfly Sticker,,2026-09-09,2,
 adopt-me,Pet/Baby Sitting,,2026-09-09,3,
+adopt-me,Clubtail Dragonfly Sticker,,2026-09-09,2,
+adopt-me,Sugarfest Slug Sticker,,2026-09-09,2,
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-10,2,0
 adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-09-10,1,0
 adopt-me,2022 Birthday Cupcake Shoes,2022-birthday-cupcake-shoes,2026-09-10,1,1
@@ -4221,11 +4221,11 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-10,2,0
 adopt-me,Zodiac Minion Egg,zodiac-minion-egg,2026-09-10,1,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-10,2,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-10,1,0
-adopt-me,Mr. Whiskerpips,,2026-09-10,6,
 adopt-me,Personal Sheepdog Car,,2026-09-10,1,
-adopt-me,Lucky Clover Glasses,,2026-09-10,1,
 adopt-me,Castle,,2026-09-10,1,
 adopt-me,Pet/Baby Sitting,,2026-09-10,0,
+adopt-me,Mr. Whiskerpips,,2026-09-10,6,
+adopt-me,Lucky Clover Glasses,,2026-09-10,1,
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-11,1,0
 adopt-me,2022 Birthday Party Hat,2022-birthday-party-hat,2026-09-11,2,0
 adopt-me,2022 Birthday Party Horn,2022-birthday-party-horn,2026-09-11,1,0
@@ -4852,13 +4852,13 @@ adopt-me,Zebra Backpack,zebra-backpack,2026-09-11,1,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-11,1,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-11,3,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-11,3,0
-adopt-me,Pride Sticker Pack ,,2026-09-11,1,
 adopt-me,Mrs. Whiskerpips,,2026-09-11,4,
 adopt-me,Pet/Baby Sitting,,2026-09-11,5,
+adopt-me,Pride Sticker Pack ,,2026-09-11,1,
+adopt-me,Mr. Whiskerpips,,2026-09-11,4,
+adopt-me,Pistachio,,2026-09-11,1,
 adopt-me,2D Crown,,2026-09-11,1,
 adopt-me,Aestus Mane,,2026-09-11,1,
-adopt-me,Pistachio,,2026-09-11,1,
-adopt-me,Mr. Whiskerpips,,2026-09-11,4,
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-12,1,0
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-12,1,0
 adopt-me,2D Bone Chew Toy,2d-bone-chew-toy,2026-09-12,2,0
@@ -5808,22 +5808,22 @@ adopt-me,Zeopod,zeopod,2026-09-12,3,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-12,1,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-12,1,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-12,1,0
-adopt-me,Sneaky Newspaper,,2026-09-12,1,
-adopt-me,Fishing Bucket Hat,,2026-09-12,2,
-adopt-me,Camp Patch Sash,,2026-09-12,1,
-adopt-me,Busy Body Potion,,2026-09-12,1,
-adopt-me,Hawk Sticker,,2026-09-12,1,
-adopt-me,Eco White Spider Web Badge,,2026-09-12,2,
-adopt-me,Mrs. Whiskerpips,,2026-09-12,3,
-adopt-me,Goofy Potion,,2026-09-12,1,
-adopt-me,Bonus Aging Potion,,2026-09-12,2,
-adopt-me,Standard Sticker Pack ,,2026-09-12,2,
-adopt-me,Jimothy,,2026-09-12,1,
-adopt-me,Future Sight Potion,,2026-09-12,1,
-adopt-me,9th Birthday Cupcake,,2026-09-12,2,
 adopt-me,Secret Talent Potion,,2026-09-12,1,
+adopt-me,Mrs. Whiskerpips,,2026-09-12,3,
+adopt-me,Jimothy,,2026-09-12,1,
+adopt-me,9th Birthday Cupcake,,2026-09-12,2,
 adopt-me,Polymorph Potion,,2026-09-12,2,
+adopt-me,Camp Patch Sash,,2026-09-12,1,
+adopt-me,Hawk Sticker,,2026-09-12,1,
+adopt-me,Standard Sticker Pack ,,2026-09-12,2,
+adopt-me,Sneaky Newspaper,,2026-09-12,1,
 adopt-me,Sheepdog Army Hair,,2026-09-12,1,
+adopt-me,Goofy Potion,,2026-09-12,1,
+adopt-me,Busy Body Potion,,2026-09-12,1,
+adopt-me,Fishing Bucket Hat,,2026-09-12,2,
+adopt-me,Future Sight Potion,,2026-09-12,1,
+adopt-me,Bonus Aging Potion,,2026-09-12,2,
+adopt-me,Eco White Spider Web Badge,,2026-09-12,2,
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-13,1,0
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-13,1,0
 adopt-me,2D Doggy,2d-doggy,2026-09-13,1,0
@@ -6645,13 +6645,13 @@ adopt-me,Zeopod,zeopod,2026-09-13,3,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-13,1,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-13,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-13,1,0
-adopt-me,Birthday Cake,,2026-09-13,2,
-adopt-me,Mrs. Whiskerpips,,2026-09-13,1,
 adopt-me,Home Potion,,2026-09-13,1,
+adopt-me,Clubtail Dragonfly Wings,,2026-09-13,2,
 adopt-me,Clubtail Dragonfly Sticker,,2026-09-13,1,
 adopt-me,Pet/Baby Sitting,,2026-09-13,2,
-adopt-me,Clubtail Dragonfly Wings,,2026-09-13,2,
+adopt-me,Birthday Cake,,2026-09-13,2,
 adopt-me,Lighthouse Sticker,,2026-09-13,2,
+adopt-me,Mrs. Whiskerpips,,2026-09-13,1,
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-14,1,0
 adopt-me,2D Bone Chew Toy,2d-bone-chew-toy,2026-09-14,1,0
 adopt-me,2D Kitty Sticker,2d-kitty-sticker,2026-09-14,1,0
@@ -7639,13 +7639,13 @@ adopt-me,Zeopod,zeopod,2026-09-14,3,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-14,3,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-14,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-14,1,2
-adopt-me,Mr. Whiskerpips,,2026-09-14,1,
-adopt-me,Polymorph Potion,,2026-09-14,1,
+adopt-me,Camping Tent Sticker,,2026-09-14,2,
 adopt-me,Kirin Sticker,,2026-09-14,2,
 adopt-me,Fishing Bucket Hat,,2026-09-14,1,
-adopt-me,Camping Tent Sticker,,2026-09-14,2,
-adopt-me,Mrs. Whiskerpips,,2026-09-14,4,
+adopt-me,Mr. Whiskerpips,,2026-09-14,1,
 adopt-me,Hawk Sticker,,2026-09-14,2,
+adopt-me,Mrs. Whiskerpips,,2026-09-14,4,
+adopt-me,Polymorph Potion,,2026-09-14,1,
 adopt-me,Sugarfest Slug Sticker,,2026-09-14,1,
 adopt-me,Cabin Crew Hat,,2026-09-14,2,
 adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-09-15,1,0
@@ -8585,16 +8585,16 @@ adopt-me,Zeopod,zeopod,2026-09-15,5,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-15,1,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-15,2,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-15,1,0
-adopt-me,Clubtail Dragonfly Sticker,,2026-09-15,2,
 adopt-me,Birthday Cake,,2026-09-15,1,
-adopt-me,Sugarfest Slug Sticker,,2026-09-15,2,
-adopt-me,Clubtail Dragonfly Wings,,2026-09-15,1,
 adopt-me,Hawk Sticker,,2026-09-15,1,
-adopt-me,2D Crown,,2026-09-15,2,
-adopt-me,Pet/Baby Sitting,,2026-09-15,1,
 adopt-me,Lemon Frost Pet Paint,,2026-09-15,2,
-adopt-me,Chipmunk Sticker,,2026-09-15,1,
 adopt-me,Mr. Whiskerpips,,2026-09-15,2,
+adopt-me,Clubtail Dragonfly Sticker,,2026-09-15,2,
+adopt-me,Clubtail Dragonfly Wings,,2026-09-15,1,
+adopt-me,Pet/Baby Sitting,,2026-09-15,1,
+adopt-me,Chipmunk Sticker,,2026-09-15,1,
+adopt-me,Sugarfest Slug Sticker,,2026-09-15,2,
+adopt-me,2D Crown,,2026-09-15,2,
 adopt-me,Lighthouse Sticker,,2026-09-15,1,
 adopt-me,2025 Bauble Sticker,2025-bauble-sticker,2026-09-16,1,0
 adopt-me,2D Bone Chew Toy,2d-bone-chew-toy,2026-09-16,2,0
@@ -9567,18 +9567,18 @@ adopt-me,Zeopod,zeopod,2026-09-16,4,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-16,1,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-16,1,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-16,1,0
-adopt-me,Chipmunk Sticker,,2026-09-16,2,
-adopt-me,Camp Patch Sash,,2026-09-16,2,
-adopt-me,Birthday Cake Hat,,2026-09-16,2,
-adopt-me,Aestus Sticker,,2026-09-16,2,
 adopt-me,Stocked Santa Sleigh,,2026-09-16,1,
 adopt-me,Cabin Crew Hat,,2026-09-16,1,
-adopt-me,Hawk Sticker,,2026-09-16,2,
-adopt-me,Lighthouse Sticker,,2026-09-16,2,
 adopt-me,Clubtail Dragonfly Wings,,2026-09-16,2,
-adopt-me,Birthday Cake,,2026-09-16,2,
-adopt-me,Eco Blue Recycling Bin Badge,,2026-09-16,2,
 adopt-me,Strawberry Santa Snacks,,2026-09-16,2,
+adopt-me,Lighthouse Sticker,,2026-09-16,2,
+adopt-me,Eco Blue Recycling Bin Badge,,2026-09-16,2,
+adopt-me,Birthday Cake Hat,,2026-09-16,2,
+adopt-me,Aestus Sticker,,2026-09-16,2,
+adopt-me,Chipmunk Sticker,,2026-09-16,2,
+adopt-me,Hawk Sticker,,2026-09-16,2,
+adopt-me,Camp Patch Sash,,2026-09-16,2,
+adopt-me,Birthday Cake,,2026-09-16,2,
 adopt-me,2D Bone Chew Toy,2d-bone-chew-toy,2026-09-17,2,0
 adopt-me,2D Kitty,2d-kitty,2026-09-17,1,0
 adopt-me,2D Kitty Sticker,2d-kitty-sticker,2026-09-17,1,0
@@ -10643,20 +10643,20 @@ adopt-me,Zebra Backpack,zebra-backpack,2026-09-17,1,0
 adopt-me,Zebra Sticker,zebra-sticker,2026-09-17,1,0
 adopt-me,Zeopod,zeopod,2026-09-17,5,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-17,1,0
-adopt-me,Aestus Sticker,,2026-09-17,1,
-adopt-me,Clubtail Dragonfly Wings,,2026-09-17,1,
-adopt-me,Rainbow Trout Sticker,,2026-09-17,2,
-adopt-me,Sheepdog Army Hair,,2026-09-17,2,
-adopt-me,Back Paddle,,2026-09-17,1,
-adopt-me,Camp Patch Sash,,2026-09-17,1,
-adopt-me,Woodpecker Sticker,,2026-09-17,2,
 adopt-me,Camping Sandals,,2026-09-17,2,
-adopt-me,Sneaky Newspaper,,2026-09-17,2,
-adopt-me,Kirin Sticker,,2026-09-17,1,
-adopt-me,Birthday Cake Hat,,2026-09-17,1,
-adopt-me,Eco Blue Recycling Bin Badge,,2026-09-17,1,
-adopt-me,Hawk Sticker,,2026-09-17,1,
 adopt-me,9th Birthday Cupcake,,2026-09-17,1,
+adopt-me,Sneaky Newspaper,,2026-09-17,2,
+adopt-me,Rainbow Trout Sticker,,2026-09-17,2,
+adopt-me,Woodpecker Sticker,,2026-09-17,2,
+adopt-me,Clubtail Dragonfly Wings,,2026-09-17,1,
+adopt-me,Back Paddle,,2026-09-17,1,
+adopt-me,Kirin Sticker,,2026-09-17,1,
+adopt-me,Camp Patch Sash,,2026-09-17,1,
+adopt-me,Aestus Sticker,,2026-09-17,1,
+adopt-me,Birthday Cake Hat,,2026-09-17,1,
+adopt-me,Hawk Sticker,,2026-09-17,1,
+adopt-me,Sheepdog Army Hair,,2026-09-17,2,
+adopt-me,Eco Blue Recycling Bin Badge,,2026-09-17,1,
 adopt-me,2022 Birthday Party Horn,2022-birthday-party-horn,2026-09-18,1,0
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-18,1,0
 adopt-me,2D Bone Chew Toy,2d-bone-chew-toy,2026-09-18,1,0
@@ -11685,15 +11685,15 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-18,1,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-18,1,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-18,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-18,1,0
-adopt-me,Mrs. Whiskerpips,,2026-09-18,3,
-adopt-me,Woodpecker Sticker,,2026-09-18,1,
+adopt-me,Chipmunk Sticker,,2026-09-18,1,
 adopt-me,Cabin Crew Hat,,2026-09-18,2,
 adopt-me,Strawberry Santa Snacks,,2026-09-18,1,
+adopt-me,Mrs. Whiskerpips,,2026-09-18,3,
 adopt-me,Sneaky Newspaper,,2026-09-18,1,
-adopt-me,Chipmunk Sticker,,2026-09-18,1,
 adopt-me,Pet/Baby Sitting,,2026-09-18,2,
 adopt-me,Camping Tent Sticker,,2026-09-18,1,
 adopt-me,Clubtail Dragonfly Sticker,,2026-09-18,1,
+adopt-me,Woodpecker Sticker,,2026-09-18,1,
 adopt-me,Rainbow Trout Sticker,,2026-09-18,1,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-19,2,0
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-19,0,1
@@ -12397,25 +12397,25 @@ adopt-me,Zodiac Minion Egg,zodiac-minion-egg,2026-09-19,1,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-19,1,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-19,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-19,2,0
-adopt-me,Secret Agent Tie,,2026-09-19,1,
-adopt-me,Bonus Aging Potion,,2026-09-19,1,
+adopt-me,S'mores Earrings,,2026-09-19,2,
+adopt-me,Burger Flipper,,2026-09-19,1,
 adopt-me,Moon House,,2026-09-19,1,
+adopt-me,Ice Cream House,,2026-09-19,1,
+adopt-me,Secret Agent Tie,,2026-09-19,1,
 adopt-me,Interior Design,,2026-09-19,4,
-adopt-me,Mrs. Whiskerpips,,2026-09-19,5,
+adopt-me,Ketchup and Mustard Glasses,,2026-09-19,1,
+adopt-me,Glyptodon Shell Shoes,,2026-09-19,1,
 adopt-me,Choosy Potion,,2026-09-19,1,
+adopt-me,Pet/Baby Sitting,,2026-09-19,9,
+adopt-me,Bunting Collar,,2026-09-19,1,
+adopt-me,Bonus Aging Potion,,2026-09-19,1,
 adopt-me,Future Sight Potion,,2026-09-19,2,
 adopt-me,Mr. Whiskerpips,,2026-09-19,4,
-adopt-me,Standard Sticker Pack ,,2026-09-19,1,
-adopt-me,Bunting Collar,,2026-09-19,1,
 adopt-me,Bunch of Balloons,,2026-09-19,1,
-adopt-me,Burger Flipper,,2026-09-19,1,
-adopt-me,Ice Cream House,,2026-09-19,1,
-adopt-me,Glyptodon Shell Shoes,,2026-09-19,1,
-adopt-me,Pet/Baby Sitting,,2026-09-19,9,
-adopt-me,S'mores Earrings,,2026-09-19,2,
+adopt-me,Standard Sticker Pack ,,2026-09-19,1,
 adopt-me,Spy Fedora,,2026-09-19,1,
-adopt-me,Ketchup and Mustard Glasses,,2026-09-19,1,
 adopt-me,Fairytale Castle,,2026-09-19,1,
+adopt-me,Mrs. Whiskerpips,,2026-09-19,5,
 adopt-me,2022 Birthday Party Hat,2022-birthday-party-hat,2026-09-20,1,0
 adopt-me,2022 Birthday Party Horn,2022-birthday-party-horn,2026-09-20,1,0
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-20,1,0
@@ -13337,11 +13337,11 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-20,1,0
 adopt-me,Zombie Chick Sticker,zombie-chick-sticker,2026-09-20,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-20,1,0
 adopt-me,Mrs. Whiskerpips,,2026-09-20,2,
-adopt-me,Birthday Cake,,2026-09-20,1,
 adopt-me,Kitty Biscuit,,2026-09-20,1,
-adopt-me,Sheepdog Army Hair,,2026-09-20,1,
 adopt-me,Interior Design,,2026-09-20,1,
+adopt-me,Birthday Cake,,2026-09-20,1,
 adopt-me,Eco White Spider Web Badge,,2026-09-20,1,
+adopt-me,Sheepdog Army Hair,,2026-09-20,1,
 adopt-me,Mr. Whiskerpips,,2026-09-20,1,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-21,1,0
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-21,2,0
@@ -13944,14 +13944,14 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-21,2,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-21,2,1
 adopt-me,Zombie Chick,zombie-chick,2026-09-21,2,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-21,2,1
-adopt-me,Mr. Whiskerpips,,2026-09-21,4,
-adopt-me,Interior Design,,2026-09-21,6,
-adopt-me,Lightning Crown,,2026-09-21,1,
-adopt-me,2026 Birthday Sticker,,2026-09-21,1,
-adopt-me,Kitty Biscuit,,2026-09-21,4,
-adopt-me,Pet/Baby Sitting,,2026-09-21,2,
-adopt-me,Gingerbread House,,2026-09-21,9,
 adopt-me,Fairytale Castle,,2026-09-21,2,
+adopt-me,Pet/Baby Sitting,,2026-09-21,2,
+adopt-me,Interior Design,,2026-09-21,6,
+adopt-me,Kitty Biscuit,,2026-09-21,4,
+adopt-me,Mr. Whiskerpips,,2026-09-21,4,
+adopt-me,Lightning Crown,,2026-09-21,1,
+adopt-me,Gingerbread House,,2026-09-21,9,
+adopt-me,2026 Birthday Sticker,,2026-09-21,1,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-22,1,0
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-22,1,0
 adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-09-22,1,0
@@ -14714,14 +14714,14 @@ adopt-me,Zebra,zebra,2026-09-22,7,0
 adopt-me,Zeopod,zeopod,2026-09-22,6,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-22,3,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-22,1,0
-adopt-me,Gingerbread House,,2026-09-22,4,
+adopt-me,Pet/Baby Sitting,,2026-09-22,1,
 adopt-me,Interior Design,,2026-09-22,2,
+adopt-me,Cabin Crew Hat,,2026-09-22,1,
 adopt-me,Mr. Whiskerpips,,2026-09-22,5,
 adopt-me,Kitty Biscuit,,2026-09-22,2,
-adopt-me,Cabin Crew Hat,,2026-09-22,1,
-adopt-me,Stygian Hang Glider,,2026-09-22,1,
-adopt-me,Pet/Baby Sitting,,2026-09-22,1,
+adopt-me,Gingerbread House,,2026-09-22,4,
 adopt-me,Mrs. Whiskerpips,,2026-09-22,5,
+adopt-me,Stygian Hang Glider,,2026-09-22,1,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-23,2,0
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-23,1,0
 adopt-me,2022 Birthday Party Hat,2022-birthday-party-hat,2026-09-23,2,0
@@ -15396,25 +15396,25 @@ adopt-me,Zebra Backpack,zebra-backpack,2026-09-23,2,0
 adopt-me,Zeopod,zeopod,2026-09-23,6,0
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-23,2,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-23,1,0
-adopt-me,Pet/Baby Sitting,,2026-09-23,6,
-adopt-me,Future Sight Potion,,2026-09-23,1,
-adopt-me,Preferred Potion,,2026-09-23,2,
-adopt-me,S'mores Earrings,,2026-09-23,1,
-adopt-me,Bonus Bucks Potion,,2026-09-23,2,
-adopt-me,Kitty Biscuit,,2026-09-23,1,
-adopt-me,Soap Bar,,2026-09-23,1,
-adopt-me,Travel Soap,,2026-09-23,1,
-adopt-me,Mrs. Whiskerpips,,2026-09-23,2,
-adopt-me,Halloween Hotel,,2026-09-23,1,
-adopt-me,Secret Talent Potion,,2026-09-23,2,
 adopt-me,Mr. Whiskerpips,,2026-09-23,2,
-adopt-me,Choosy Potion,,2026-09-23,3,
-adopt-me,Luxury Soap,,2026-09-23,1,
-adopt-me,Fairytale Castle,,2026-09-23,1,
+adopt-me,Halloween Hotel,,2026-09-23,1,
 adopt-me,Polymorph Potion,,2026-09-23,5,
-adopt-me,2D Crown,,2026-09-23,1,
-adopt-me,Home Potion,,2026-09-23,2,
+adopt-me,Luxury Soap,,2026-09-23,1,
+adopt-me,Travel Soap,,2026-09-23,1,
+adopt-me,Choosy Potion,,2026-09-23,3,
+adopt-me,Bonus Bucks Potion,,2026-09-23,2,
 adopt-me,Interior Design,,2026-09-23,1,
+adopt-me,Preferred Potion,,2026-09-23,2,
+adopt-me,Pet/Baby Sitting,,2026-09-23,6,
+adopt-me,Kitty Biscuit,,2026-09-23,1,
+adopt-me,Secret Talent Potion,,2026-09-23,2,
+adopt-me,2D Crown,,2026-09-23,1,
+adopt-me,Fairytale Castle,,2026-09-23,1,
+adopt-me,Mrs. Whiskerpips,,2026-09-23,2,
+adopt-me,S'mores Earrings,,2026-09-23,1,
+adopt-me,Home Potion,,2026-09-23,2,
+adopt-me,Soap Bar,,2026-09-23,1,
+adopt-me,Future Sight Potion,,2026-09-23,1,
 adopt-me,2022 Birthday 5 Badge,2022-birthday-5-badge,2026-09-24,1,
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-24,3,
 adopt-me,2022 Birthday Confetti Drape,2022-birthday-confetti-drape,2026-09-24,1,
@@ -15785,15 +15785,15 @@ adopt-me,Zebra,zebra,2026-09-24,1,
 adopt-me,Zebra Backpack,zebra-backpack,2026-09-24,1,
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-24,1,
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-24,6,
-adopt-me,Kitty Biscuit,,2026-09-24,4,
 adopt-me,2026 Birthday Sticker,,2026-09-24,2,
-adopt-me,Glyptodon Van,,2026-09-24,1,
-adopt-me,Gingerbread House,,2026-09-24,1,
+adopt-me,Stygian Hang Glider,,2026-09-24,2,
+adopt-me,Mr. Whiskerpips,,2026-09-24,1,
+adopt-me,Personal Sheepdog Car,,2026-09-24,3,
 adopt-me,Jimothy,,2026-09-24,6,
 adopt-me,Bunch of Balloons,,2026-09-24,2,
-adopt-me,Personal Sheepdog Car,,2026-09-24,3,
-adopt-me,Mr. Whiskerpips,,2026-09-24,1,
-adopt-me,Stygian Hang Glider,,2026-09-24,2,
+adopt-me,Glyptodon Van,,2026-09-24,1,
+adopt-me,Gingerbread House,,2026-09-24,1,
+adopt-me,Kitty Biscuit,,2026-09-24,4,
 adopt-me,#1 Ribbon,1-ribbon,2026-09-25,1,
 adopt-me,1000 Bucks Silk Bag,1000-bucks-silk-bag,2026-09-25,1,
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-09-25,1,
@@ -16175,13 +16175,13 @@ adopt-me,Yellow-lipped Sea Krait,yellow-lipped-sea-krait,2026-09-25,0,
 adopt-me,Zebra,zebra,2026-09-25,2,
 adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-25,1,
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-25,7,
-adopt-me,River,,2026-09-25,1,
-adopt-me,Kitty Biscuit,,2026-09-25,1,
-adopt-me,Pet/Baby Sitting,,2026-09-25,1,
-adopt-me,Bunch of Balloons,,2026-09-25,1,
-adopt-me,Mrs. Whiskerpips,,2026-09-25,3,
 adopt-me,Apple,,2026-09-25,1,
+adopt-me,Kitty Biscuit,,2026-09-25,1,
 adopt-me,Gingerbread House,,2026-09-25,3,
+adopt-me,Bunch of Balloons,,2026-09-25,1,
+adopt-me,Pet/Baby Sitting,,2026-09-25,1,
+adopt-me,Mrs. Whiskerpips,,2026-09-25,3,
+adopt-me,River,,2026-09-25,1,
 adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-09-26,3,
 adopt-me,Aberdeen Angus Box,aberdeen-angus-box,2026-09-26,0,
 adopt-me,Abyssinian Cat,abyssinian-cat,2026-09-26,2,
@@ -16497,8 +16497,8 @@ adopt-me,Zombie Wolf,zombie-wolf,2026-09-26,1,
 adopt-me,Personal Sheepdog Car,,2026-09-26,1,
 adopt-me,Mr. Whiskerpips,,2026-09-26,2,
 adopt-me,Super Age-Up Potion,,2026-09-26,0,
-adopt-me,Stocked Santa Sleigh,,2026-09-26,2,
 adopt-me,Luxury Soap,,2026-09-26,2,
+adopt-me,Stocked Santa Sleigh,,2026-09-26,2,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-27,4,
 adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-09-27,4,
 adopt-me,2022 Birthday Cupcake Shoes,2022-birthday-cupcake-shoes,2026-09-27,1,
@@ -16868,12 +16868,12 @@ adopt-me,Zeopod,zeopod,2026-09-27,1,
 adopt-me,Zombie Buffalo Plush,zombie-buffalo-plush,2026-09-27,1,
 adopt-me,Zombie Chick,zombie-chick,2026-09-27,2,
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-27,3,
-adopt-me,Puppuccino,,2026-09-27,1,
+adopt-me,Pet/Baby Sitting,,2026-09-27,2,
+adopt-me,2D Bowtie,,2026-09-27,1,
+adopt-me,Fairytale Castle,,2026-09-27,3,
 adopt-me,Mr. Whiskerpips,,2026-09-27,4,
 adopt-me,Mrs. Whiskerpips,,2026-09-27,4,
-adopt-me,Pet/Baby Sitting,,2026-09-27,2,
-adopt-me,Fairytale Castle,,2026-09-27,3,
-adopt-me,2D Bowtie,,2026-09-27,1,
+adopt-me,Puppuccino,,2026-09-27,1,
 adopt-me,Solaris Animated Sticker,,2026-09-27,1,
 adopt-me,#1 Ribbon,1-ribbon,2026-09-28,1,0
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-09-28,1,0
@@ -17736,31 +17736,31 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-09-28,2,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-09-28,2,0
 adopt-me,Zombie Chick,zombie-chick,2026-09-28,1,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-09-28,3,0
-adopt-me,Camping Sandals,,2026-09-28,1,
-adopt-me,Flight Helmet,,2026-09-28,1,
-adopt-me,Oakee Cap,,2026-09-28,1,
-adopt-me,Bunch of Balloons,,2026-09-28,3,
-adopt-me,Grassy Crown,,2026-09-28,1,
-adopt-me,S'mores Earrings,,2026-09-28,2,
-adopt-me,Fighter Airpack,,2026-09-28,1,
-adopt-me,Lightning Crown,,2026-09-28,2,
-adopt-me,Busy Body Potion,,2026-09-28,2,
-adopt-me,Aestus Mane,,2026-09-28,2,
-adopt-me,Kitty Biscuit,,2026-09-28,2,
-adopt-me,Stygian Owl Wings,,2026-09-28,1,
-adopt-me,Jimothy,,2026-09-28,2,
-adopt-me,Personal Sheepdog Car,,2026-09-28,2,
-adopt-me,Fast Food Hat,,2026-09-28,1,
-adopt-me,AR Glasses,,2026-09-28,1,
 adopt-me,Home Potion,,2026-09-28,1,
-adopt-me,Mr. Whiskerpips,,2026-09-28,1,
-adopt-me,Glyptodon's Here Helmet,,2026-09-28,1,
-adopt-me,Secret Talent Potion,,2026-09-28,1,
-adopt-me,Mahi Spinning Rod,,2026-09-28,1,
-adopt-me,Cheese and Lettuce Collar,,2026-09-28,1,
+adopt-me,Personal Sheepdog Car,,2026-09-28,2,
+adopt-me,Jimothy,,2026-09-28,2,
+adopt-me,Busy Body Potion,,2026-09-28,2,
+adopt-me,AR Glasses,,2026-09-28,1,
 adopt-me,2D Backpack,,2026-09-28,1,
+adopt-me,Stygian Owl Wings,,2026-09-28,1,
+adopt-me,Fighter Airpack,,2026-09-28,1,
+adopt-me,Aestus Mane,,2026-09-28,2,
+adopt-me,Glyptodon's Here Helmet,,2026-09-28,1,
+adopt-me,Bunch of Balloons,,2026-09-28,3,
+adopt-me,Mahi Spinning Rod,,2026-09-28,1,
 adopt-me,Gold Aviators,,2026-09-28,1,
+adopt-me,Grassy Crown,,2026-09-28,1,
 adopt-me,Pet/Baby Sitting,,2026-09-28,4,
+adopt-me,Camping Sandals,,2026-09-28,1,
+adopt-me,Lightning Crown,,2026-09-28,2,
+adopt-me,Kitty Biscuit,,2026-09-28,2,
+adopt-me,Mr. Whiskerpips,,2026-09-28,1,
+adopt-me,Oakee Cap,,2026-09-28,1,
+adopt-me,Fast Food Hat,,2026-09-28,1,
+adopt-me,S'mores Earrings,,2026-09-28,2,
+adopt-me,Secret Talent Potion,,2026-09-28,1,
+adopt-me,Cheese and Lettuce Collar,,2026-09-28,1,
+adopt-me,Flight Helmet,,2026-09-28,1,
 adopt-me,1000 Bucks Silk Bag,1000-bucks-silk-bag,2026-10-03,1,0
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-10-03,1,0
 adopt-me,2022 Birthday 5 Badge,2022-birthday-5-badge,2026-10-03,1,0
@@ -18734,27 +18734,27 @@ adopt-me,Zodiac Minion Egg,zodiac-minion-egg,2026-10-03,0,1
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-10-03,7,8
 adopt-me,Zombie Chick,zombie-chick,2026-10-03,8,2
 adopt-me,Zombie Wolf,zombie-wolf,2026-10-03,19,29
-adopt-me,Kitty Biscuit,,2026-10-03,12,
-adopt-me,White Chef Hat,,2026-10-03,4,
-adopt-me,Black Dog,,2026-10-03,2,
+adopt-me,Wooly Rhino,,2026-10-03,0,
+adopt-me,Fly-A-Pet Potion,,2026-10-03,180,
+adopt-me,Copter Hat,,2026-10-03,1,
 adopt-me,Tropical Surge Mega Neon Paint,,2026-10-03,1,
-adopt-me,Monster Mansion,,2026-10-03,1,
-adopt-me,Solaris Animated Sticker,,2026-10-03,0,
-adopt-me,Velvet Fuchsia Mega Neon Paint,,2026-10-03,1,
-adopt-me,Mr. Whiskerpips,,2026-10-03,7,
+adopt-me,Tio De Nadal,,2026-10-03,9,
+adopt-me,Amethyst Skies Mega Neon Paint,,2026-10-03,3,
+adopt-me,Ring-Tailed Lemur,,2026-10-03,14,
 adopt-me,Malaysian Tapir,,2026-10-03,0,
 adopt-me,Mrs. Whiskerpips,,2026-10-03,13,
-adopt-me,Amethyst Skies Mega Neon Paint,,2026-10-03,3,
-adopt-me,Rose Quartz Glow Mega Neon Paint,,2026-10-03,1,
-adopt-me,Copter Hat,,2026-10-03,1,
-adopt-me,Cherry-On-Top,,2026-10-03,12,
-adopt-me,Ride-A-Pet Potion,,2026-10-03,255,
-adopt-me,Tio De Nadal,,2026-10-03,9,
-adopt-me,Fairytale Castle,,2026-10-03,5,
-adopt-me,Wooly Rhino,,2026-10-03,0,
+adopt-me,Black Dog,,2026-10-03,2,
+adopt-me,Mr. Whiskerpips,,2026-10-03,7,
 adopt-me,Super Age-Up Potion,,2026-10-03,1,
-adopt-me,Fly-A-Pet Potion,,2026-10-03,180,
-adopt-me,Ring-Tailed Lemur,,2026-10-03,14,
+adopt-me,Cherry-On-Top,,2026-10-03,12,
+adopt-me,White Chef Hat,,2026-10-03,4,
+adopt-me,Rose Quartz Glow Mega Neon Paint,,2026-10-03,1,
+adopt-me,Velvet Fuchsia Mega Neon Paint,,2026-10-03,1,
+adopt-me,Kitty Biscuit,,2026-10-03,12,
+adopt-me,Monster Mansion,,2026-10-03,1,
+adopt-me,Fairytale Castle,,2026-10-03,5,
+adopt-me,Solaris Animated Sticker,,2026-10-03,0,
+adopt-me,Ride-A-Pet Potion,,2026-10-03,255,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-10-04,6,0
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-10-04,9,3
 adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-10-04,1,1
@@ -19710,26 +19710,26 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-10-04,6,1
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-10-04,7,6
 adopt-me,Zombie Chick,zombie-chick,2026-10-04,2,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-10-04,29,17
-adopt-me,Ring-Tailed Lemur,,2026-10-04,4,
-adopt-me,Fly-A-Pet Potion,,2026-10-04,157,
+adopt-me,Tropical Surge Mega Neon Paint,,2026-10-04,0,
+adopt-me,Black Dog,,2026-10-04,1,
 adopt-me,Amethyst Skies Mega Neon Paint,,2026-10-04,2,
-adopt-me,Cherry-On-Top,,2026-10-04,4,
-adopt-me,Solaris Animated Sticker,,2026-10-04,1,
-adopt-me,White Chef Hat,,2026-10-04,10,
-adopt-me,Mr. Whiskerpips,,2026-10-04,14,
-adopt-me,Mrs. Whiskerpips,,2026-10-04,11,
-adopt-me,Aestus Mane,,2026-10-04,1,
+adopt-me,Ring-Tailed Lemur,,2026-10-04,4,
 adopt-me,Candy Flare Mega Neon Paint,,2026-10-04,1,
+adopt-me,Tio De Nadal,,2026-10-04,10,
+adopt-me,Solaris Animated Sticker,,2026-10-04,1,
+adopt-me,Electric Tide Mega Neon Paint,,2026-10-04,1,
+adopt-me,Rose Quartz Glow Mega Neon Paint,,2026-10-04,0,
+adopt-me,Mr. Whiskerpips,,2026-10-04,14,
 adopt-me,Malaysian Tapir,,2026-10-04,1,
 adopt-me,Velvet Fuchsia Mega Neon Paint,,2026-10-04,0,
-adopt-me,Black Dog,,2026-10-04,1,
-adopt-me,Tropical Surge Mega Neon Paint,,2026-10-04,0,
-adopt-me,Ride-A-Pet Potion,,2026-10-04,267,
 adopt-me,Kitty Biscuit,,2026-10-04,4,
-adopt-me,Tio De Nadal,,2026-10-04,10,
+adopt-me,White Chef Hat,,2026-10-04,10,
+adopt-me,Aestus Mane,,2026-10-04,1,
+adopt-me,Ride-A-Pet Potion,,2026-10-04,267,
+adopt-me,Fly-A-Pet Potion,,2026-10-04,157,
 adopt-me,Wooly Rhino,,2026-10-04,2,
-adopt-me,Rose Quartz Glow Mega Neon Paint,,2026-10-04,0,
-adopt-me,Electric Tide Mega Neon Paint,,2026-10-04,1,
+adopt-me,Cherry-On-Top,,2026-10-04,4,
+adopt-me,Mrs. Whiskerpips,,2026-10-04,11,
 adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-10-05,2,0
 adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-10-05,19,6
 adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-10-05,1,1
@@ -20629,16 +20629,963 @@ adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-10-05,1,0
 adopt-me,Zombie Buffalo,zombie-buffalo,2026-10-05,5,3
 adopt-me,Zombie Chick,zombie-chick,2026-10-05,3,0
 adopt-me,Zombie Wolf,zombie-wolf,2026-10-05,21,14
-adopt-me,White Chef Hat,,2026-10-05,3,
-adopt-me,Cherry-On-Top,,2026-10-05,3,
-adopt-me,Fly-A-Pet Potion,,2026-10-05,185,
-adopt-me,Mr. Whiskerpips,,2026-10-05,8,
-adopt-me,Mrs. Whiskerpips,,2026-10-05,1,
-adopt-me,Ride-A-Pet Potion,,2026-10-05,205,
-adopt-me,Wooly Rhino,,2026-10-05,1,
 adopt-me,Ring-Tailed Lemur,,2026-10-05,6,
-adopt-me,Kitty Biscuit,,2026-10-05,7,
 adopt-me,Velvet Fuchsia Mega Neon Paint,,2026-10-05,1,
+adopt-me,Cherry-On-Top,,2026-10-05,3,
+adopt-me,Mr. Whiskerpips,,2026-10-05,8,
+adopt-me,Wooly Rhino,,2026-10-05,1,
+adopt-me,Mrs. Whiskerpips,,2026-10-05,1,
+adopt-me,White Chef Hat,,2026-10-05,3,
+adopt-me,Kitty Biscuit,,2026-10-05,7,
+adopt-me,Fly-A-Pet Potion,,2026-10-05,185,
+adopt-me,Ride-A-Pet Potion,,2026-10-05,205,
+adopt-me,2021 Uplift Butterfly,2021-uplift-butterfly,2026-10-06,2,0
+adopt-me,2022 Birthday 5 Badge,2022-birthday-5-badge,2026-10-06,1,0
+adopt-me,2022 Birthday Cake,2022-birthday-cake,2026-10-06,21,2
+adopt-me,2022 Birthday Confetti Cannon,2022-birthday-confetti-cannon,2026-10-06,7,0
+adopt-me,2022 Birthday Confetti Drape,2022-birthday-confetti-drape,2026-10-06,3,0
+adopt-me,2022 Birthday Cupcake Shoes,2022-birthday-cupcake-shoes,2026-10-06,4,2
+adopt-me,2022 Birthday Party Hat,2022-birthday-party-hat,2026-10-06,21,4
+adopt-me,2022 Birthday Party Horn,2022-birthday-party-horn,2026-10-06,14,6
+adopt-me,2026 Birthday Butterfly,2026-birthday-butterfly,2026-10-06,2,0
+adopt-me,2D Box,2d-box,2026-10-06,1,0
+adopt-me,2D Doggy,2d-doggy,2026-10-06,6,0
+adopt-me,2D Kitty,2d-kitty,2026-10-06,11,1
+adopt-me,Abyssinian Cat,abyssinian-cat,2026-10-06,5,3
+adopt-me,Admin Abuse Box,admin-abuse-box,2026-10-06,2,0
+adopt-me,Admin Abuse Egg,admin-abuse-egg,2026-10-06,5,0
+adopt-me,Aestus,aestus,2026-10-06,17,1
+adopt-me,African Painted Dog Sticker,african-painted-dog-sticker,2026-10-06,1,0
+adopt-me,African Wild Dog,african-wild-dog,2026-10-06,24,33
+adopt-me,Albino Bat,albino-bat,2026-10-06,0,5
+adopt-me,Albino Gorilla,albino-gorilla,2026-10-06,0,1
+adopt-me,Albino Monkey,albino-monkey,2026-10-06,16,5
+adopt-me,Alicorn,alicorn,2026-10-06,6,0
+adopt-me,Alien Eyes Hat,alien-eyes-hat,2026-10-06,1,3
+adopt-me,Alley Cat,alley-cat,2026-10-06,9,6
+adopt-me,Alpaca,alpaca,2026-10-06,17,23
+adopt-me,Amami Rabbit,amami-rabbit,2026-10-06,10,4
+adopt-me,Amber Butterfly,amber-butterfly,2026-10-06,4,0
+adopt-me,Amethyst Penguin,amethyst-penguin,2026-10-06,4,1
+adopt-me,Ancient Dragon,ancient-dragon,2026-10-06,3,0
+adopt-me,Angel Wings,angel-wings,2026-10-06,3,10
+adopt-me,Angelfish,angelfish,2026-10-06,1,0
+adopt-me,Angus Bull,angus-bull,2026-10-06,1,0
+adopt-me,Angus Calf,angus-calf,2026-10-06,3,1
+adopt-me,Angus Cow,angus-cow,2026-10-06,2,2
+adopt-me,Ant,ant,2026-10-06,3,0
+adopt-me,Apple Owl,apple-owl,2026-10-06,5,1
+adopt-me,Arctic Dusk Dragon,arctic-dusk-dragon,2026-10-06,23,15
+adopt-me,Arctic Fox,arctic-fox,2026-10-06,18,10
+adopt-me,Arctic Hare,arctic-hare,2026-10-06,1,0
+adopt-me,Arctic Reindeer,arctic-reindeer,2026-10-06,28,44
+adopt-me,Astronaut Gorilla,astronaut-gorilla,2026-10-06,1,0
+adopt-me,Aurora Fox,aurora-fox,2026-10-06,0,7
+adopt-me,Aussie Egg,aussie-egg,2026-10-06,4,0
+adopt-me,Australian Kelpie,australian-kelpie,2026-10-06,5,0
+adopt-me,Aviator Hat,aviator-hat,2026-10-06,0,1
+adopt-me,Axel,axel,2026-10-06,0,1
+adopt-me,Axolotl,axolotl,2026-10-06,2,0
+adopt-me,Aye Aye,aye-aye,2026-10-06,1,1
+adopt-me,Aztec Egg,aztec-egg,2026-10-06,2,0
+adopt-me,Badger,badger,2026-10-06,2,0
+adopt-me,Bakeneko,bakeneko,2026-10-06,7,2
+adopt-me,Baku,baku,2026-10-06,1,0
+adopt-me,Bald Eagle,bald-eagle,2026-10-06,2,2
+adopt-me,Ballet Swan,ballet-swan,2026-10-06,19,4
+adopt-me,Balloon Unicorn,balloon-unicorn,2026-10-06,23,46
+adopt-me,Banana Car,banana-car,2026-10-06,2,0
+adopt-me,Banana Hat,banana-hat,2026-10-06,5,0
+adopt-me,Banana Plush,banana-plush,2026-10-06,1,0
+adopt-me,Banana Stroller,banana-stroller,2026-10-06,1,0
+adopt-me,Basic Egg,basic-egg,2026-10-06,1,0
+adopt-me,Basilisk,basilisk,2026-10-06,1,0
+adopt-me,Bat,bat,2026-10-06,1,6
+adopt-me,Bat Dragon,bat-dragon,2026-10-06,26,37
+adopt-me,Bat Wings,bat-wings,2026-10-06,1,3
+adopt-me,Bathtub,bathtub,2026-10-06,2,0
+adopt-me,Bauble Buddies,bauble-buddies,2026-10-06,0,2
+adopt-me,Bear Hood,bear-hood,2026-10-06,1,0
+adopt-me,Beaver,beaver,2026-10-06,1,0
+adopt-me,Bee,bee,2026-10-06,8,0
+adopt-me,Beluga Whale,beluga-whale,2026-10-06,1,2
+adopt-me,Berry Cool Cube,berry-cool-cube,2026-10-06,1,2
+adopt-me,Billy Goat,billy-goat,2026-10-06,2,0
+adopt-me,Binturong,binturong,2026-10-06,2,4
+adopt-me,Biodome Home,biodome-home,2026-10-06,0,1
+adopt-me,Bird of Paradise,bird-of-paradise,2026-10-06,1,0
+adopt-me,Birthday Butterfly 2024,birthday-butterfly-2024,2026-10-06,2,0
+adopt-me,Black-Chested Pheasant,black-chested-pheasant,2026-10-06,1,1
+adopt-me,Black Chow-Chow,black-chow-chow,2026-10-06,5,0
+adopt-me,Black-Footed Ferret,black-footed-ferret,2026-10-06,4,0
+adopt-me,Black Macaque,black-macaque,2026-10-06,0,2
+adopt-me,Black Marlin,black-marlin,2026-10-06,2,1
+adopt-me,Black Moon Bear,black-moon-bear,2026-10-06,1,0
+adopt-me,Black Panther,black-panther,2026-10-06,2,5
+adopt-me,Black Rhino,black-rhino,2026-10-06,4,0
+adopt-me,Black Scooter,black-scooter,2026-10-06,1,0
+adopt-me,Black Snowboard,black-snowboard,2026-10-06,1,0
+adopt-me,Black Springer Spaniel,black-springer-spaniel,2026-10-06,7,0
+adopt-me,Black Tiger,black-tiger,2026-10-06,4,0
+adopt-me,Black Widow,black-widow,2026-10-06,0,4
+adopt-me,Blazing Lion,blazing-lion,2026-10-06,21,12
+adopt-me,Bloodhound,bloodhound,2026-10-06,1,1
+adopt-me,Blossom Snake,blossom-snake,2026-10-06,3,1
+adopt-me,Blue Betta Fish,blue-betta-fish,2026-10-06,0,2
+adopt-me,Blue Butterfly,blue-butterfly,2026-10-06,3,0
+adopt-me,Blue Cat,blue-cat,2026-10-06,6,1
+adopt-me,Blue Cat Ear Headphones,blue-cat-ear-headphones,2026-10-06,1,0
+adopt-me,Blue Dog,blue-dog,2026-10-06,4,2
+adopt-me,Blue Ringed Octopus,blue-ringed-octopus,2026-10-06,2,2
+adopt-me,Blue Whale,blue-whale,2026-10-06,4,0
+adopt-me,Border Collie,border-collie,2026-10-06,8,20
+adopt-me,Brachiosaurus,brachiosaurus,2026-10-06,1,0
+adopt-me,Brain Jar,brain-jar,2026-10-06,0,1
+adopt-me,Bready Necklace,bready-necklace,2026-10-06,14,1
+adopt-me,Brown Bear,brown-bear,2026-10-06,11,5
+adopt-me,Brown Springer Spaniel,brown-springer-spaniel,2026-10-06,6,1
+adopt-me,Budgie Witch,budgie-witch,2026-10-06,3,0
+adopt-me,Buffalo,buffalo,2026-10-06,1,0
+adopt-me,Bullfrog,bullfrog,2026-10-06,1,0
+adopt-me,Bunny,bunny,2026-10-06,3,0
+adopt-me,Bunny Ear Tiara,bunny-ear-tiara,2026-10-06,1,0
+adopt-me,Bunny Stroller,bunny-stroller,2026-10-06,1,1
+adopt-me,Bunny Swirl,bunny-swirl,2026-10-06,10,9
+adopt-me,Burger Bear,burger-bear,2026-10-06,9,5
+adopt-me,Burger Boots,burger-boots,2026-10-06,1,0
+adopt-me,Bush Elephant,bush-elephant,2026-10-06,8,3
+adopt-me,Business Monkey,business-monkey,2026-10-06,4,0
+adopt-me,Butter Knife,butter-knife,2026-10-06,4,1
+adopt-me,Cabbit,cabbit,2026-10-06,42,40
+adopt-me,Cactus Friend,cactus-friend,2026-10-06,0,2
+adopt-me,Caelum Cervi,caelum-cervi,2026-10-06,8,5
+adopt-me,Cake Friend,cake-friend,2026-10-06,9,1
+adopt-me,California Condor,california-condor,2026-10-06,2,0
+adopt-me,Camel,camel,2026-10-06,4,0
+adopt-me,Campfire Stories Mega Neon Paint,campfire-stories-mega-neon-paint,2026-10-06,0,2
+adopt-me,Canadian Goose,canadian-goose,2026-10-06,1,1
+adopt-me,Candicorn,candicorn,2026-10-06,26,34
+adopt-me,Candy Cane Snail,candy-cane-snail,2026-10-06,0,5
+adopt-me,Candy Cannon,candy-cannon,2026-10-06,0,2
+adopt-me,Candy Hare,candy-hare,2026-10-06,6,3
+adopt-me,Candyfloss Chick,candyfloss-chick,2026-10-06,17,9
+adopt-me,Candyfloss Mega Neon Paint,candyfloss-mega-neon-paint,2026-10-06,1,0
+adopt-me,Capricorn,capricorn,2026-10-06,1,0
+adopt-me,Capuchin Monkey,capuchin-monkey,2026-10-06,1,0
+adopt-me,Capybara,capybara,2026-10-06,2,1
+adopt-me,Castle Hermit Crab,castle-hermit-crab,2026-10-06,6,0
+adopt-me,Cat,cat,2026-10-06,5,1
+adopt-me,Cat Backpack,cat-backpack,2026-10-06,1,0
+adopt-me,Caterpillar,caterpillar,2026-10-06,6,3
+adopt-me,Catte,catte,2026-10-06,12,1
+adopt-me,Cattuccino,cattuccino,2026-10-06,18,2
+adopt-me,Celestial Carrier,celestial-carrier,2026-10-06,1,0
+adopt-me,Cerberus,cerberus,2026-10-06,43,5
+adopt-me,Chameleon,chameleon,2026-10-06,3,0
+adopt-me,Chanekeh,chanekeh,2026-10-06,1,0
+adopt-me,Cheesecake Hat,cheesecake-hat,2026-10-06,4,0
+adopt-me,Cheetah,cheetah,2026-10-06,1,2
+adopt-me,Chef Gorilla,chef-gorilla,2026-10-06,0,1
+adopt-me,Chef Hat,chef-hat,2026-10-06,2,0
+adopt-me,Chef Hat,chef-hat,2026-10-06,2,0
+adopt-me,Cherry Blossom Flower Sticker,cherry-blossom-flower-sticker,2026-10-06,0,1
+adopt-me,Cherry Blossom Hang Glider,cherry-blossom-hang-glider,2026-10-06,2,1
+adopt-me,Cherry Blossom Tree Sticker,cherry-blossom-tree-sticker,2026-10-06,0,1
+adopt-me,Cherry-on-Top,cherry-on-top,2026-10-06,10,0
+adopt-me,Cherub Chipmunk,cherub-chipmunk,2026-10-06,2,0
+adopt-me,Chestnut Glyptodon,chestnut-glyptodon,2026-10-06,5,0
+adopt-me,Chick,chick,2026-10-06,2,0
+adopt-me,Chick Backpack,chick-backpack,2026-10-06,2,0
+adopt-me,Chick Hat,chick-hat,2026-10-06,2,0
+adopt-me,Chickatrice,chickatrice,2026-10-06,0,1
+adopt-me,Chicken,chicken,2026-10-06,6,0
+adopt-me,Chicken Hat,chicken-hat,2026-10-06,1,0
+adopt-me,Chihuahua,chihuahua,2026-10-06,20,8
+adopt-me,Chilling Spider,chilling-spider,2026-10-06,1,0
+adopt-me,Chipmunk,chipmunk,2026-10-06,1,0
+adopt-me,Choco Penguin,choco-penguin,2026-10-06,7,1
+adopt-me,Chocolate Chip Bat Dragon,chocolate-chip-bat-dragon,2026-10-06,52,37
+adopt-me,Chocolate Chip Bat Dragon Backpack,chocolate-chip-bat-dragon-backpack,2026-10-06,2,0
+adopt-me,Chocolate Dutch Guinea Pig,chocolate-dutch-guinea-pig,2026-10-06,39,5
+adopt-me,Chocolate Labrador,chocolate-labrador,2026-10-06,1,0
+adopt-me,Christmas Egg,christmas-egg,2026-10-06,0,1
+adopt-me,Christmas Future Egg,christmas-future-egg,2026-10-06,1,0
+adopt-me,Christmas Pudding House,christmas-pudding-house,2026-10-06,1,0
+adopt-me,Christmas Pudding Pup,christmas-pudding-pup,2026-10-06,33,28
+adopt-me,Christmas Spirit,christmas-spirit,2026-10-06,1,2
+adopt-me,City Hat,city-hat,2026-10-06,1,0
+adopt-me,Classic Trade Stand,classic-trade-stand,2026-10-06,6,0
+adopt-me,Clementine Owl,clementine-owl,2026-10-06,3,1
+adopt-me,Clover Cow,clover-cow,2026-10-06,6,0
+adopt-me,Clownfish,clownfish,2026-10-06,5,1
+adopt-me,Clumpty,clumpty,2026-10-06,4,0
+adopt-me,Cobra,cobra,2026-10-06,1,0
+adopt-me,Cockroach,cockroach,2026-10-06,0,2
+adopt-me,Cocoadile,cocoadile,2026-10-06,2,0
+adopt-me,Coconut Friend,coconut-friend,2026-10-06,3,1
+adopt-me,Cold Cube,cold-cube,2026-10-06,4,0
+adopt-me,Corgi,corgi,2026-10-06,14,0
+adopt-me,Corn Doggo,corn-doggo,2026-10-06,0,5
+adopt-me,Corndog Mustache,corndog-mustache,2026-10-06,1,0
+adopt-me,Cotton Candy Hat,cotton-candy-hat,2026-10-06,7,2
+adopt-me,Cotton Candy Stand,cotton-candy-stand,2026-10-06,1,0
+adopt-me,Cow,cow,2026-10-06,82,38
+adopt-me,Cow Calf,cow-calf,2026-10-06,3,1
+adopt-me,Cowboy Saddle,cowboy-saddle,2026-10-06,0,1
+adopt-me,Coyote,coyote,2026-10-06,2,0
+adopt-me,Cozy Cabin,cozy-cabin,2026-10-06,0,1
+adopt-me,Cozy Mistletroll,cozy-mistletroll,2026-10-06,6,2
+adopt-me,Crab,crab,2026-10-06,2,0
+adopt-me,Cracked Egg,cracked-egg,2026-10-06,1,1
+adopt-me,Crimson Cape,crimson-cape,2026-10-06,4,0
+adopt-me,Criosphinx,criosphinx,2026-10-06,1,1
+adopt-me,Crocodile,crocodile,2026-10-06,17,11
+adopt-me,Crow,crow,2026-10-06,29,54
+adopt-me,Cryptid,cryptid,2026-10-06,258,15
+adopt-me,Crystal Egg,crystal-egg,2026-10-06,3,14
+adopt-me,Cuddly Candle,cuddly-candle,2026-10-06,1,0
+adopt-me,Cupid Dragon,cupid-dragon,2026-10-06,3,11
+adopt-me,Cute-A-Cabra,cute-a-cabra,2026-10-06,0,1
+adopt-me,Daisymobile,daisymobile,2026-10-06,1,0
+adopt-me,Dalmatian,dalmatian,2026-10-06,24,34
+adopt-me,Dancing Dragon,dancing-dragon,2026-10-06,2,2
+adopt-me,Dancing Tube Hat,dancing-tube-hat,2026-10-06,1,0
+adopt-me,Danger Egg,danger-egg,2026-10-06,2,1
+adopt-me,Dango Penguins,dango-penguins,2026-10-06,23,16
+adopt-me,Dark Choccybunny,dark-choccybunny,2026-10-06,1,1
+adopt-me,Deathstalker Scorpion,deathstalker-scorpion,2026-10-06,1,0
+adopt-me,Deinonychus,deinonychus,2026-10-06,1,0
+adopt-me,Demon Wings,demon-wings,2026-10-06,1,0
+adopt-me,Desert Egg,desert-egg,2026-10-06,1,0
+adopt-me,Diamond Albatross,diamond-albatross,2026-10-06,2,1
+adopt-me,Diamond Butterfly,diamond-butterfly,2026-10-06,6,0
+adopt-me,Diamond Dragon,diamond-dragon,2026-10-06,2,0
+adopt-me,Diamond Egg,diamond-egg,2026-10-06,2,0
+adopt-me,Diamond Griffin,diamond-griffin,2026-10-06,5,0
+adopt-me,Diamond Hamster,diamond-hamster,2026-10-06,5,2
+adopt-me,Diamond Hummingbird,diamond-hummingbird,2026-10-06,7,0
+adopt-me,Diamond Unicorn,diamond-unicorn,2026-10-06,8,0
+adopt-me,Dimension Drifter,dimension-drifter,2026-10-06,2,1
+adopt-me,Dimorphodon,dimorphodon,2026-10-06,1,1
+adopt-me,Dingo,dingo,2026-10-06,5,0
+adopt-me,Dino Truck,dino-truck,2026-10-06,1,0
+adopt-me,Dire Stag,dire-stag,2026-10-06,0,2
+adopt-me,Dire Wolf,dire-wolf,2026-10-06,10,2
+adopt-me,Dirty Ducky,dirty-ducky,2026-10-06,3,0
+adopt-me,DJ Snooze,dj-snooze,2026-10-06,0,2
+adopt-me,Dodo,dodo,2026-10-06,6,5
+adopt-me,Dog,dog,2026-10-06,4,1
+adopt-me,Dogmobile,dogmobile,2026-10-06,2,0
+adopt-me,Dolphin Cruiser,dolphin-cruiser,2026-10-06,3,0
+adopt-me,Donkey,donkey,2026-10-06,1,0
+adopt-me,Donut Cycle,donut-cycle,2026-10-06,1,0
+adopt-me,Douglas,douglas,2026-10-06,1,1
+adopt-me,Dracula Parrot,dracula-parrot,2026-10-06,5,0
+adopt-me,Dragon,dragon,2026-10-06,8,2
+adopt-me,Dragonfly,dragonfly,2026-10-06,2,0
+adopt-me,Dragonfly Fairy Wings,dragonfly-fairy-wings,2026-10-06,1,0
+adopt-me,Dragonfruit Fox,dragonfruit-fox,2026-10-06,26,11
+adopt-me,Drake,drake,2026-10-06,5,0
+adopt-me,Duck Floatie,duck-floatie,2026-10-06,1,1
+adopt-me,Dugong,dugong,2026-10-06,0,1
+adopt-me,Easter Bunny,easter-bunny,2026-10-06,2,0
+adopt-me,Easter Egg Stroller,easter-egg-stroller,2026-10-06,0,1
+adopt-me,Eaten Donut,eaten-donut,2026-10-06,2,0
+adopt-me,Eco Brown Earth-Wizard Hat,eco-brown-earth-wizard-hat,2026-10-06,0,1
+adopt-me,Eggnog Dog,eggnog-dog,2026-10-06,1,1
+adopt-me,Eggnog Hare,eggnog-hare,2026-10-06,2,0
+adopt-me,Ehecatl,ehecatl,2026-10-06,1,0
+adopt-me,Elasmosaurus,elasmosaurus,2026-10-06,0,2
+adopt-me,Elephant,elephant,2026-10-06,13,5
+adopt-me,Elephant Stroller,elephant-stroller,2026-10-06,1,0
+adopt-me,Elf Hat,elf-hat,2026-10-06,1,0
+adopt-me,Elf Shoes,elf-shoes,2026-10-06,1,0
+adopt-me,Emberlight,emberlight,2026-10-06,2,2
+adopt-me,Emperor Gorilla,emperor-gorilla,2026-10-06,3,2
+adopt-me,Emperor Shrimp,emperor-shrimp,2026-10-06,0,1
+adopt-me,Emu,emu,2026-10-06,2,1
+adopt-me,Enchanted Broomstick,enchanted-broomstick,2026-10-06,0,1
+adopt-me,Endangered Egg,endangered-egg,2026-10-06,4,0
+adopt-me,Energy Aura Feet,energy-aura-feet,2026-10-06,1,0
+adopt-me,English Sheepdog,english-sheepdog,2026-10-06,4,1
+adopt-me,Ermine,ermine,2026-10-06,5,1
+adopt-me,Evil Basilisk,evil-basilisk,2026-10-06,1,0
+adopt-me,Evil Chickatrice,evil-chickatrice,2026-10-06,1,0
+adopt-me,Evil Rock,evil-rock,2026-10-06,1,0
+adopt-me,Evil Unicorn,evil-unicorn,2026-10-06,39,35
+adopt-me,Fairy Bat Dragon,fairy-bat-dragon,2026-10-06,67,22
+adopt-me,Fairy Wings,fairy-wings-pet-item,2026-10-06,2,0
+adopt-me,Fairytale Egg,fairytale-egg,2026-10-06,10,0
+adopt-me,Fallow Deer,fallow-deer,2026-10-06,6,5
+adopt-me,Feesh,feesh,2026-10-06,1,2
+adopt-me,Fennec Fox,fennec-fox,2026-10-06,1,0
+adopt-me,Festive Deliveries Sleigh,festive-deliveries-sleigh,2026-10-06,1,0
+adopt-me,Festive Wagon,festive-wagon,2026-10-06,1,0
+adopt-me,Field Mouse,field-mouse,2026-10-06,4,2
+adopt-me,Fire Foal,fire-foal,2026-10-06,2,0
+adopt-me,Fire Stallion,fire-stallion,2026-10-06,3,0
+adopt-me,Firefly,firefly,2026-10-06,6,0
+adopt-me,Fishbone Badge,fishbone-badge,2026-10-06,0,2
+adopt-me,Flaming Fox,flaming-fox,2026-10-06,13,8
+adopt-me,Flaming Zebra,flaming-zebra,2026-10-06,1,1
+adopt-me,Flamingo,flamingo,2026-10-06,8,10
+adopt-me,Fleur De Ice,fleur-de-ice,2026-10-06,0,1
+adopt-me,Floral Eggy,floral-eggy,2026-10-06,1,0
+adopt-me,Flower Aura,flower-aura,2026-10-06,3,0
+adopt-me,Flower Beret,flower-beret,2026-10-06,1,0
+adopt-me,Flower Power Duckling,flower-power-duckling,2026-10-06,2,1
+adopt-me,Flying Broomstick,flying-broomstick,2026-10-06,0,1
+adopt-me,Flying Cloud,flying-cloud,2026-10-06,1,0
+adopt-me,Flying Fairy,flying-fairy,2026-10-06,2,0
+adopt-me,Flying Fish,flying-fish,2026-10-06,2,0
+adopt-me,Fool Egg,fool-egg,2026-10-06,1,0
+adopt-me,Forest Sprite,forest-sprite,2026-10-06,1,1
+adopt-me,Fossa,fossa,2026-10-06,0,2
+adopt-me,Fossil Egg,fossil-egg,2026-10-06,2,0
+adopt-me,Founder's Crown,founders-crown,2026-10-06,1,0
+adopt-me,Frankenfeline,frankenfeline,2026-10-06,4,2
+adopt-me,French Bulldog,french-bulldog,2026-10-06,4,1
+adopt-me,Frog,frog,2026-10-06,3,0
+adopt-me,Frogspawn,frogspawn,2026-10-06,1,0
+adopt-me,Frost Dragon,frost-dragon,2026-10-06,55,61
+adopt-me,Frost Fury,frost-fury,2026-10-06,16,7
+adopt-me,Frost Phoenix,frost-phoenix,2026-10-06,4,5
+adopt-me,Frost Unicorn,frost-unicorn,2026-10-06,1,9
+adopt-me,Frostbite Bear,frostbite-bear,2026-10-06,53,4
+adopt-me,Frostbite Bear and Cub Animated Sticker,frostbite-bear-and-cub-animated-sticker,2026-10-06,2,0
+adopt-me,Frostbite Cub,frostbite-cub,2026-10-06,3,2
+adopt-me,Frostclaw,frostclaw,2026-10-06,1,1
+adopt-me,Frosty Glow Mega Neon Paint,frosty-glow-mega-neon-paint,2026-10-06,1,2
+adopt-me,Frozen Penguin,frozen-penguin,2026-10-06,1,1
+adopt-me,Gaelic Fae,gaelic-fae,2026-10-06,2,2
+adopt-me,Galapagos Sea Lion,galapagos-sea-lion,2026-10-06,1,0
+adopt-me,Garden Snake,garden-snake,2026-10-06,2,0
+adopt-me,Gargoyle,gargoyle,2026-10-06,1,2
+adopt-me,Gecko,gecko,2026-10-06,7,1
+adopt-me,Gecko Ducky,gecko-ducky,2026-10-06,5,0
+adopt-me,Gemstone Egg,gemstone-egg,2026-10-06,39,0
+adopt-me,General Sheepdog,general-sheepdog,2026-10-06,4,1
+adopt-me,German Shepherd,german-shepherd,2026-10-06,12,2
+adopt-me,Ghost,ghost,2026-10-06,8,4
+adopt-me,Ghost Bunny,ghost-bunny,2026-10-06,16,2
+adopt-me,Ghost Chick,ghost-chick,2026-10-06,3,2
+adopt-me,Ghost Dog,ghost-dog,2026-10-06,8,0
+adopt-me,Ghost Vehicle,ghost-vehicle,2026-10-06,0,1
+adopt-me,Ghost Wolf,ghost-wolf,2026-10-06,2,7
+adopt-me,Ghostly Cat,ghostly-cat,2026-10-06,4,12
+adopt-me,Giant Anteater,giant-anteater,2026-10-06,6,15
+adopt-me,Giant Black Scarab,giant-black-scarab,2026-10-06,1,0
+adopt-me,Giant Blue Scarab,giant-blue-scarab,2026-10-06,2,2
+adopt-me,Giant Gold Scarab,giant-gold-scarab,2026-10-06,0,1
+adopt-me,Giant Panda,giant-panda,2026-10-06,24,28
+adopt-me,Giant Snowball,giant-snowball,2026-10-06,1,0
+adopt-me,Gilded Snake,gilded-snake,2026-10-06,2,0
+adopt-me,Ginger Cat,ginger-cat,2026-10-06,7,2
+adopt-me,Gingerbread Mouse,gingerbread-mouse,2026-10-06,2,0
+adopt-me,Gingerbread Reindeer,gingerbread-reindeer,2026-10-06,3,0
+adopt-me,Giraffe,giraffe,2026-10-06,23,15
+adopt-me,Glacier Kitsune,glacier-kitsune,2026-10-06,3,3
+adopt-me,Glacier Moth,glacier-moth,2026-10-06,1,1
+adopt-me,Glider,glider,2026-10-06,3,0
+adopt-me,Glormy Backpack,glormy-backpack,2026-10-06,1,0
+adopt-me,Glormy Crab,glormy-crab,2026-10-06,1,0
+adopt-me,Glormy Dolphin,glormy-dolphin,2026-10-06,3,2
+adopt-me,Glormy Hound,glormy-hound,2026-10-06,1,5
+adopt-me,Glormy Leo,glormy-leo,2026-10-06,2,5
+adopt-me,Glyptodon,glyptodon,2026-10-06,1,0
+adopt-me,Glyptodon Ducky,glyptodon-ducky,2026-10-06,2,0
+adopt-me,Goat,goat,2026-10-06,11,6
+adopt-me,GoKart,gokart,2026-10-06,0,1
+adopt-me,Gold Circle Glasses,gold-circle-glasses,2026-10-06,2,0
+adopt-me,Gold Crown,gold-crown,2026-10-06,1,0
+adopt-me,Gold Scooter,gold-scooter,2026-10-06,1,0
+adopt-me,Gold Tiara,gold-tiara,2026-10-06,3,0
+adopt-me,Golden Albatross,golden-albatross,2026-10-06,2,0
+adopt-me,Golden Chow-Chow,golden-chow-chow,2026-10-06,2,0
+adopt-me,Golden Dragon,golden-dragon,2026-10-06,2,0
+adopt-me,Golden Egg,golden-egg,2026-10-06,1,0
+adopt-me,Golden Griffin,golden-griffin,2026-10-06,2,0
+adopt-me,Golden Hamster,golden-hamster,2026-10-06,1,2
+adopt-me,Golden Jaguar,golden-jaguar,2026-10-06,2,3
+adopt-me,Golden Ladybug,golden-ladybug,2026-10-06,9,0
+adopt-me,Golden Lettuce,golden-lettuce,2026-10-06,6,0
+adopt-me,Golden Penguin,golden-penguin,2026-10-06,2,2
+adopt-me,Golden Petunia,golden-petunia,2026-10-06,2,0
+adopt-me,Golden Rat,golden-rat,2026-10-06,2,1
+adopt-me,Golden Tortoise Beetle,golden-tortoise-beetle,2026-10-06,1,0
+adopt-me,Golden Unicorn,golden-unicorn,2026-10-06,3,1
+adopt-me,Golden Walrus,golden-walrus,2026-10-06,1,1
+adopt-me,Golden Wheat,golden-wheat,2026-10-06,1,0
+adopt-me,Goldfish,goldfish,2026-10-06,1,0
+adopt-me,Goldhorn,goldhorn,2026-10-06,11,2
+adopt-me,Goose,goose,2026-10-06,41,29
+adopt-me,Gorilla,gorilla,2026-10-06,2,0
+adopt-me,Goth Shoes,goth-shoes,2026-10-06,4,1
+adopt-me,Granny Wolf,granny-wolf,2026-10-06,2,0
+adopt-me,Grave Owl,grave-owl,2026-10-06,1,0
+adopt-me,Great Pyrenees,great-pyrenees,2026-10-06,10,2
+adopt-me,Green Amazon,green-amazon,2026-10-06,5,2
+adopt-me,Grim Dragon,grim-dragon,2026-10-06,32,9
+adopt-me,Grinmoire,grinmoire,2026-10-06,1,0
+adopt-me,Ground Sloth,ground-sloth,2026-10-06,1,0
+adopt-me,Groundhog,groundhog,2026-10-06,4,3
+adopt-me,Guardian Lion,guardian-lion,2026-10-06,7,2
+adopt-me,Gumball Caterpillar,gumball-caterpillar,2026-10-06,3,0
+adopt-me,Gummy Guana,gummy-guana,2026-10-06,2,0
+adopt-me,Haetae,haetae,2026-10-06,21,8
+adopt-me,Half Egg Stroller,half-egg-stroller,2026-10-06,0,1
+adopt-me,Halloween 2024 Sticker Pack,halloween-2024-sticker-pack,2026-10-06,0,1
+adopt-me,Halloween Black Axe Guitar Accessory,halloween-black-axe-guitar-accessory,2026-10-06,0,1
+adopt-me,Halloween Black Mummy Cat,halloween-black-mummy-cat,2026-10-06,3,5
+adopt-me,Halloween Black Ponycycle,halloween-black-ponycycle,2026-10-06,2,0
+adopt-me,Halloween Blue Scorpion,halloween-blue-scorpion,2026-10-06,1,0
+adopt-me,Halloween Evil Dachshund,halloween-evil-dachshund,2026-10-06,2,2
+adopt-me,Halloween Golden Mummy Cat,halloween-golden-mummy-cat,2026-10-06,1,0
+adopt-me,Halloween Mummy Cat Box,halloween-mummy-cat-box,2026-10-06,1,0
+adopt-me,Halloween Orange Pumpkin Friend Hat,halloween-orange-pumpkin-friend-hat,2026-10-06,0,1
+adopt-me,Halloween White Ghost Dragon,halloween-white-ghost-dragon,2026-10-06,6,1
+adopt-me,Halloween White Skeleton Dog,halloween-white-skeleton-dog,2026-10-06,3,3
+adopt-me,Halloween White Skull Hat,halloween-white-skull-hat,2026-10-06,0,2
+adopt-me,Halo,halo,2026-10-06,2,2
+adopt-me,Hammerhead Shark,hammerhead-shark,2026-10-06,1,1
+adopt-me,Hamster,hamster,2026-10-06,6,5
+adopt-me,Happy Clam,happy-clam,2026-10-06,9,1
+adopt-me,Happy Duckling,happy-duckling,2026-10-06,9,3
+adopt-me,Hare,hare,2026-10-06,20,1
+adopt-me,Harp Seal,harp-seal,2026-10-06,17,8
+adopt-me,Head Chef,head-chef,2026-10-06,1,1
+adopt-me,Headband,headband-pet-item,2026-10-06,1,0
+adopt-me,Headband,headband-pet-item,2026-10-06,1,0
+adopt-me,Headless Horse,headless-horse,2026-10-06,4,2
+adopt-me,Heart Bow,heart-bow,2026-10-06,1,1
+adopt-me,Heart Hoverboard,heart-hoverboard,2026-10-06,1,0
+adopt-me,Heart Lock Necklace,heart-lock-necklace,2026-10-06,1,0
+adopt-me,Heart Potion,heart-potion,2026-10-06,1,0
+adopt-me,Hedgehog,hedgehog,2026-10-06,18,39
+adopt-me,Hero Gibbon,hero-gibbon,2026-10-06,1,0
+adopt-me,Hero Mask,hero-mask,2026-10-06,2,0
+adopt-me,Highland Cow,highland-cow,2026-10-06,3,4
+adopt-me,Hippo,hippo,2026-10-06,1,3
+adopt-me,Hive Backpack,hive-backpack,2026-10-06,1,0
+adopt-me,Honey,honey,2026-10-06,1,0
+adopt-me,Honey Badger,honey-badger,2026-10-06,5,3
+adopt-me,Hopbop,hopbop,2026-10-06,1,0
+adopt-me,Horse,horse,2026-10-06,0,3
+adopt-me,Hot Doggo,hot-doggo,2026-10-06,13,9
+adopt-me,Hot Doggo Sticker,hot-doggo-sticker,2026-10-06,1,0
+adopt-me,Hotdog Stand,hotdog-stand,2026-10-06,2,0
+adopt-me,Hoverboard,hoverboard,2026-10-06,2,0
+adopt-me,Hovercar,hovercar,2026-10-06,1,0
+adopt-me,Hovertible,hovertible,2026-10-06,1,0
+adopt-me,Hummingbird,hummingbird,2026-10-06,1,0
+adopt-me,Huntsman Robin,huntsman-robin,2026-10-06,3,0
+adopt-me,Husky,husky,2026-10-06,8,4
+adopt-me,Hydra,hydra,2026-10-06,4,0
+adopt-me,Hyena,hyena,2026-10-06,6,2
+adopt-me,Ibis,ibis,2026-10-06,1,0
+adopt-me,Ice Cream Cone Hat,ice-cream-cone-hat,2026-10-06,27,4
+adopt-me,Ice Cream Heels,ice-cream-heels,2026-10-06,3,0
+adopt-me,Ice Cream Hermit Crab,ice-cream-hermit-crab,2026-10-06,2,0
+adopt-me,Ice Cream Truck,ice-cream-truck,2026-10-06,1,0
+adopt-me,Ice Cube,ice-cube,2026-10-06,2,0
+adopt-me,Ice Golem,ice-golem,2026-10-06,2,0
+adopt-me,Ice Moth Dragon,ice-moth-dragon,2026-10-06,2,0
+adopt-me,Ice Wolf,ice-wolf,2026-10-06,1,3
+adopt-me,Icey Aura,icey-aura,2026-10-06,2,0
+adopt-me,Icy Porcupine,icy-porcupine,2026-10-06,4,0
+adopt-me,Imagination Box,imagination-box,2026-10-06,1,0
+adopt-me,Indian Flying Fox,indian-flying-fox,2026-10-06,1,1
+adopt-me,Inspector Sherbet Bus,inspector-sherbet-bus,2026-10-06,2,0
+adopt-me,Invisible Wings,invisible-wings,2026-10-06,1,0
+adopt-me,Irish Elk,irish-elk,2026-10-06,4,3
+adopt-me,Irish Setter,irish-setter,2026-10-06,1,4
+adopt-me,Irish Water Spaniel,irish-water-spaniel,2026-10-06,6,2
+adopt-me,Island Tarsier,island-tarsier,2026-10-06,1,0
+adopt-me,Jacobin Pigeon,jacobin-pigeon,2026-10-06,17,3
+adopt-me,Japan Egg,japan-egg,2026-10-06,1,0
+adopt-me,Japanese Snow Fairy,japanese-snow-fairy,2026-10-06,1,0
+adopt-me,Jeff's Nametag,jeffs-nametag,2026-10-06,1,2
+adopt-me,Jekyll Hydra,jekyll-hydra,2026-10-06,15,9
+adopt-me,Jekyll Hydra Animated Sticker,jekyll-hydra-animated-sticker,2026-10-06,0,1
+adopt-me,Jellyfish,jellyfish,2026-10-06,8,5
+adopt-me,Jester Dragon,jester-dragon,2026-10-06,81,179
+adopt-me,Jiggly Jerboa,jiggly-jerboa,2026-10-06,2,0
+adopt-me,Jousting Horse,jousting-horse,2026-10-06,14,1
+adopt-me,Jumping Spider,jumping-spider,2026-10-06,1,1
+adopt-me,Jumpscare,jumpscare,2026-10-06,62,5
+adopt-me,Kage Crow,kage-crow,2026-10-06,2,1
+adopt-me,Kaijunior,kaijunior,2026-10-06,7,2
+adopt-me,Kakapo,kakapo,2026-10-06,1,0
+adopt-me,Kangaroo,kangaroo,2026-10-06,59,18
+adopt-me,Kangaroo Stroller,kangaroo-stroller,2026-10-06,2,0
+adopt-me,Kappakid,kappakid,2026-10-06,1,2
+adopt-me,Karate Gorilla,karate-gorilla,2026-10-06,0,1
+adopt-me,Kelp Captain,kelp-captain,2026-10-06,1,0
+adopt-me,Kelp Raider,kelp-raider,2026-10-06,1,0
+adopt-me,Kid Goat,kid-goat,2026-10-06,4,3
+adopt-me,King Bee,king-bee,2026-10-06,4,2
+adopt-me,King Penguin,king-penguin,2026-10-06,1,0
+adopt-me,Kirin,kirin,2026-10-06,2,0
+adopt-me,Kitsune,kitsune,2026-10-06,4,2
+adopt-me,Kitty Bat,kitty-bat,2026-10-06,11,14
+adopt-me,Kiwi,kiwi,2026-10-06,1,2
+adopt-me,Kiwi Kiwi,kiwi-kiwi,2026-10-06,2,0
+adopt-me,Knitted Pumpkin Hat,knitted-pumpkin-hat,2026-10-06,1,1
+adopt-me,Koala,koala,2026-10-06,11,3
+adopt-me,Koi Carp,koi-carp,2026-10-06,8,2
+adopt-me,Kraken,kraken,2026-10-06,1,0
+adopt-me,Ladybug,ladybug,2026-10-06,4,1
+adopt-me,Lamb,lamb,2026-10-06,2,0
+adopt-me,Latte Kitsune,latte-kitsune,2026-10-06,6,3
+adopt-me,Lava Dragon,lava-dragon,2026-10-06,9,3
+adopt-me,Lava Wolf,lava-wolf,2026-10-06,1,2
+adopt-me,Lavender Dragon,lavender-dragon,2026-10-06,2,1
+adopt-me,Leaf Hat,leaf-hat,2026-10-06,1,0
+adopt-me,Lemonade Stand,lemonade-stand,2026-10-06,1,0
+adopt-me,Leopard Cat,leopard-cat,2026-10-06,6,5
+adopt-me,Leopard Shark,leopard-shark,2026-10-06,0,2
+adopt-me,Leviathan,leviathan,2026-10-06,0,3
+adopt-me,Liger,liger,2026-10-06,1,0
+adopt-me,Lion,lion,2026-10-06,8,3
+adopt-me,Lion Cub,lion-cub,2026-10-06,11,9
+adopt-me,Little Lamb,little-lamb,2026-10-06,7,1
+adopt-me,Llama,llama,2026-10-06,3,1
+adopt-me,Llamalush Purse Pet,llamalush-purse-pet,2026-10-06,1,0
+adopt-me,Lobster,lobster,2026-10-06,0,1
+adopt-me,Long Ermine Sticker,long-ermine-sticker,2026-10-06,2,0
+adopt-me,Longhorn Cow,longhorn-cow,2026-10-06,1,1
+adopt-me,Love Bird,love-bird,2026-10-06,2,1
+adopt-me,Lunar Gold Tiger,lunar-gold-tiger,2026-10-06,1,0
+adopt-me,Lunar Moon Bear,lunar-moon-bear,2026-10-06,1,0
+adopt-me,Lunar New Year Shoes,lunar-new-year-shoes,2026-10-06,1,0
+adopt-me,Lunar Ox,lunar-ox,2026-10-06,2,0
+adopt-me,Lunar Tiger,lunar-tiger,2026-10-06,2,0
+adopt-me,Lunar White Tiger,lunar-white-tiger,2026-10-06,3,0
+adopt-me,Lynx,lynx,2026-10-06,4,2
+adopt-me,Magic House Door,magic-house-door,2026-10-06,1,0
+adopt-me,Magma Moose,magma-moose,2026-10-06,3,0
+adopt-me,Magma Snail,magma-snail,2026-10-06,2,1
+adopt-me,Maine Coon,maine-coon,2026-10-06,0,2
+adopt-me,Majestic Pony,majestic-pony,2026-10-06,4,5
+adopt-me,Maleo Bird,maleo-bird,2026-10-06,1,0
+adopt-me,Maneki-Neko,maneki-neko,2026-10-06,1,0
+adopt-me,Manta Ray,manta-ray,2026-10-06,0,3
+adopt-me,Many Mackerel,many-mackerel,2026-10-06,4,2
+adopt-me,Matcha Cat,matcha-cat,2026-10-06,15,5
+adopt-me,Mecha Meow,mecha-meow,2026-10-06,0,1
+adopt-me,Mecha R4BBIT,mecha-r4bbit,2026-10-06,0,3
+adopt-me,Mechapup,mechapup,2026-10-06,3,1
+adopt-me,Meerkat,meerkat,2026-10-06,6,3
+adopt-me,Merhorse,merhorse,2026-10-06,2,0
+adopt-me,Mermicorn,mermicorn,2026-10-06,13,10
+adopt-me,Mermicorn Animated Sticker,mermicorn-animated-sticker,2026-10-06,2,1
+adopt-me,Merry Mistletroll,merry-mistletroll,2026-10-06,2,0
+adopt-me,Metal Ox,metal-ox,2026-10-06,4,0
+adopt-me,Mexican Wolf,mexican-wolf,2026-10-06,4,0
+adopt-me,Micro Car,micro-car,2026-10-06,1,0
+adopt-me,Midnight Dragon,midnight-dragon,2026-10-06,4,3
+adopt-me,Milk Choccybunny,milk-choccybunny,2026-10-06,0,1
+adopt-me,Mini Pig,mini-pig,2026-10-06,46,24
+adopt-me,Mini Pig Sticker,mini-pig-sticker,2026-10-06,2,0
+adopt-me,Mini Schnauzer,mini-schnauzer,2026-10-06,2,4
+adopt-me,Mirai Moth,mirai-moth,2026-10-06,3,3
+adopt-me,Mochi Meow,mochi-meow,2026-10-06,7,4
+adopt-me,Mochi Meow Tumble Animated Sticker,mochi-meow-tumble-animated-sticker,2026-10-06,2,0
+adopt-me,Modern Mansion,modern-mansion,2026-10-06,1,0
+adopt-me,Mole,mole,2026-10-06,1,0
+adopt-me,Momma Moose,momma-moose,2026-10-06,1,1
+adopt-me,Money Hat,money-hat,2026-10-06,1,0
+adopt-me,Mongoose,mongoose,2026-10-06,2,1
+adopt-me,Monkey,monkey,2026-10-06,6,1
+adopt-me,Monkey King,monkey-king,2026-10-06,2,3
+adopt-me,Monkey King Crown,monkey-king-crown,2026-10-06,0,1
+adopt-me,Moon Egg,moon-egg,2026-10-06,1,0
+adopt-me,Moon Rabbit,moon-rabbit,2026-10-06,4,6
+adopt-me,Moonbeam Butterfly,moonbeam-butterfly,2026-10-06,1,2
+adopt-me,Moonbeam Peacock,moonbeam-peacock,2026-10-06,6,3
+adopt-me,Moonlight Moth,moonlight-moth,2026-10-06,1,0
+adopt-me,Moose Calf,moose-calf,2026-10-06,5,4
+adopt-me,Motorized Sofa,motorized-sofa-toy,2026-10-06,1,0
+adopt-me,Mountain House,mountain-house,2026-10-06,1,0
+adopt-me,Mouse,mouse,2026-10-06,5,0
+adopt-me,Ms. Muffet,ms-muffet,2026-10-06,5,0
+adopt-me,Mule,mule,2026-10-06,5,0
+adopt-me,Mummy Spider,mummy-spider,2026-10-06,65,0
+adopt-me,Munchkin Cat,munchkin-cat,2026-10-06,38,33
+adopt-me,Mushroom Friend,mushroom-friend,2026-10-06,1,1
+adopt-me,Musk Ox,musk-ox,2026-10-06,1,0
+adopt-me,Muskrat,muskrat,2026-10-06,2,0
+adopt-me,Mythic Egg,mythic-egg,2026-10-06,1,0
+adopt-me,Narwhal,narwhal,2026-10-06,4,2
+adopt-me,Naughty Mistletroll,naughty-mistletroll,2026-10-06,4,0
+adopt-me,Nautilus,nautilus,2026-10-06,2,1
+adopt-me,Nebula Snake,nebula-snake,2026-10-06,2,0
+adopt-me,Neon Pink Scooter,neon-pink-scooter,2026-10-06,1,0
+adopt-me,Neon Pink Skateboard,neon-pink-skateboard,2026-10-06,1,0
+adopt-me,Neon Red Skateboard,neon-red-skateboard,2026-10-06,1,0
+adopt-me,Neon White Scooter,neon-white-scooter,2026-10-06,2,0
+adopt-me,Nessie,nessie,2026-10-06,8,6
+adopt-me,Netzooka,netzooka,2026-10-06,2,0
+adopt-me,Nightmare Owl,nightmare-owl,2026-10-06,0,1
+adopt-me,Ninja Monkey,ninja-monkey,2026-10-06,1,1
+adopt-me,Nurse Shark,nurse-shark,2026-10-06,1,0
+adopt-me,Nutcracker Squirrel,nutcracker-squirrel,2026-10-06,0,1
+adopt-me,Oakee Knight,oakee-knight,2026-10-06,1,0
+adopt-me,Oakee Wizard,oakee-wizard,2026-10-06,1,2
+adopt-me,Ocelot,ocelot,2026-10-06,9,0
+adopt-me,Octopus,octopus,2026-10-06,6,0
+adopt-me,Onza,onza,2026-10-06,3,1
+adopt-me,Orange Betta Fish,orange-betta-fish,2026-10-06,4,0
+adopt-me,Orange Butterfly,orange-butterfly,2026-10-06,3,2
+adopt-me,Orangutan,orangutan,2026-10-06,2,0
+adopt-me,Orca,orca,2026-10-06,4,1
+adopt-me,Orchid Butterfly,orchid-butterfly,2026-10-06,5,4
+adopt-me,Ostrich,ostrich,2026-10-06,1,0
+adopt-me,Otter,otter,2026-10-06,2,0
+adopt-me,Owl,owl,2026-10-06,59,37
+adopt-me,Owlbear,owlbear,2026-10-06,13,10
+adopt-me,Ox,ox,2026-10-06,1,0
+adopt-me,Pain au Chat,pain-au-chat,2026-10-06,11,2
+adopt-me,Paint Sealer,paint-sealer,2026-10-06,9,1
+adopt-me,Pancake Stack,pancake-stack,2026-10-06,24,1
+adopt-me,Panda,panda,2026-10-06,8,6
+adopt-me,Panda Cap,panda-cap,2026-10-06,1,0
+adopt-me,Panda Pal,panda-pal,2026-10-06,3,0
+adopt-me,Pangolin,pangolin,2026-10-06,2,0
+adopt-me,Papa Moose,papa-moose,2026-10-06,6,1
+adopt-me,Parakeet,parakeet,2026-10-06,2,0
+adopt-me,Parrot,parrot,2026-10-06,39,35
+adopt-me,Patchy Bear,patchy-bear,2026-10-06,1,0
+adopt-me,Peach Owl,peach-owl,2026-10-06,1,0
+adopt-me,Peachick,peachick,2026-10-06,1,0
+adopt-me,Peacock,peacock,2026-10-06,3,0
+adopt-me,Peahen,peahen,2026-10-06,1,0
+adopt-me,Pelican,pelican,2026-10-06,6,3
+adopt-me,Penguin,penguin,2026-10-06,2,3
+adopt-me,Peppermint Penguin,peppermint-penguin,2026-10-06,37,18
+adopt-me,Peregrine Falcon,peregrine-falcon,2026-10-06,1,0
+adopt-me,Persian Cat,persian-cat,2026-10-06,4,0
+adopt-me,Pet Egg,pet-egg,2026-10-06,1,0
+adopt-me,Pet Handler Pro Certificate,pet-handler-pro-certificate,2026-10-06,41,30
+adopt-me,Pets Plus Sticker Pack,pets-plus-sticker-pack,2026-10-06,1,1
+adopt-me,Phantom Dragon,phantom-dragon,2026-10-06,9,15
+adopt-me,Phoenix,phoenix,2026-10-06,7,3
+adopt-me,Picnic Basket,picnic-basket,2026-10-06,4,0
+adopt-me,Pig,pig,2026-10-06,33,15
+adopt-me,Pine Marten,pine-marten,2026-10-06,2,0
+adopt-me,Pineapple Owl,pineapple-owl,2026-10-06,3,0
+adopt-me,Pink Betta Fish,pink-betta-fish,2026-10-06,1,2
+adopt-me,Pink Butterfly Wings,pink-butterfly-wings,2026-10-06,2,0
+adopt-me,Pink Cat,pink-cat,2026-10-06,2,3
+adopt-me,Pink Cat Ear Headphones,pink-cat-ear-headphones,2026-10-06,5,0
+adopt-me,Pink Dog,pink-dog,2026-10-06,4,1
+adopt-me,Pink Heart Glasses,pink-heart-glasses,2026-10-06,1,1
+adopt-me,Pink Hightops,pink-hightops,2026-10-06,3,0
+adopt-me,Pinkypillar,pinkypillar,2026-10-06,2,0
+adopt-me,Pirate Ghost Capuchin Monkey,pirate-ghost-capuchin-monkey,2026-10-06,1,3
+adopt-me,Pirate Hat,pirate-hat,2026-10-06,2,0
+adopt-me,Pirate Hermit Crab,pirate-hermit-crab,2026-10-06,3,0
+adopt-me,Platypus,platypus,2026-10-06,4,1
+adopt-me,Poison Dart Frog,poison-dart-frog,2026-10-06,1,0
+adopt-me,Polar Bear,polar-bear,2026-10-06,16,5
+adopt-me,Police Cap,police-cap,2026-10-06,1,0
+adopt-me,Pomeranian,pomeranian,2026-10-06,3,1
+adopt-me,Pony Box,pony-box,2026-10-06,1,0
+adopt-me,Ponytail,ponytail,2026-10-06,2,0
+adopt-me,Poodle,poodle,2026-10-06,6,1
+adopt-me,Popsicle Stroller,popsicle-stroller,2026-10-06,1,0
+adopt-me,Postie Van,postie-van,2026-10-06,1,0
+adopt-me,Praying Mantis,praying-mantis,2026-10-06,2,3
+adopt-me,Pretty Please Snowball Sticker,pretty-please-snowball-sticker,2026-10-06,0,1
+adopt-me,Pretty Pony,pretty-pony,2026-10-06,2,2
+adopt-me,Priceless Shrimp,priceless-shrimp,2026-10-06,1,0
+adopt-me,Primal Kaijunior,primal-kaijunior,2026-10-06,2,0
+adopt-me,Princess Mare,princess-mare,2026-10-06,3,0
+adopt-me,Prism Snake,prism-snake,2026-10-06,1,0
+adopt-me,Propeller Hat,propeller-hat,2026-10-06,3,2
+adopt-me,Pudding Cat,pudding-cat,2026-10-06,1,3
+adopt-me,Puddleducks Hood,puddleducks-hood,2026-10-06,0,1
+adopt-me,Puffer Fish,puffer-fish,2026-10-06,12,1
+adopt-me,Puffin,puffin,2026-10-06,10,4
+adopt-me,Puma,puma,2026-10-06,3,0
+adopt-me,Pumpkin Friend,pumpkin-friend,2026-10-06,1,5
+adopt-me,Punk Pony,punk-pony,2026-10-06,1,0
+adopt-me,Pupcake,pupcake,2026-10-06,11,2
+adopt-me,Puptune,puptune,2026-10-06,1,2
+adopt-me,Purple & Green Beads,purple-green-beads,2026-10-06,1,0
+adopt-me,Purple Heart Glasses,purple-heart-glasses,2026-10-06,5,0
+adopt-me,Purrowl,purrowl,2026-10-06,18,1
+adopt-me,Queen Bee,queen-bee,2026-10-06,3,2
+adopt-me,Quetzalcoatl,quetzalcoatl,2026-10-06,3,0
+adopt-me,Quokka,quokka,2026-10-06,3,1
+adopt-me,Rabbit,rabbit,2026-10-06,1,0
+adopt-me,Rabbit Helicopter,rabbit-helicopter,2026-10-06,3,0
+adopt-me,Raccoon,raccoon,2026-10-06,1,3
+adopt-me,Race Car Stroller,race-car-stroller,2026-10-06,3,1
+adopt-me,Rain Boots,rain-boots,2026-10-06,1,1
+adopt-me,Rain Cloud Hat,rain-cloud-hat,2026-10-06,16,6
+adopt-me,Rain Hat,rain-hat,2026-10-06,1,1
+adopt-me,Rainbow Dragon,rainbow-dragon,2026-10-06,1,1
+adopt-me,Rainbow Maker,rainbow-maker,2026-10-06,22,13
+adopt-me,Rainbow Stroller,rainbow-stroller,2026-10-06,2,3
+adopt-me,Ram,ram,2026-10-06,12,3
+adopt-me,Ranger Beaver,ranger-beaver,2026-10-06,2,1
+adopt-me,Rat,rat,2026-10-06,3,1
+adopt-me,Ratatoskr,ratatoskr,2026-10-06,2,0
+adopt-me,RB Battles Trophy Hat,rb-battles-trophy-hat,2026-10-06,1,0
+adopt-me,Red Crowned Crane,red-crowned-crane,2026-10-06,1,0
+adopt-me,Red Dutch Guinea Pig,red-dutch-guinea-pig,2026-10-06,23,4
+adopt-me,Red Fox,red-fox,2026-10-06,1,2
+adopt-me,Red Panda,red-panda,2026-10-06,2,0
+adopt-me,Red Panda Ducky,red-panda-ducky,2026-10-06,3,0
+adopt-me,Red Sand Dollar,red-sand-dollar,2026-10-06,2,0
+adopt-me,Red Squirrel,red-squirrel,2026-10-06,7,3
+adopt-me,Reindeer,reindeer,2026-10-06,1,4
+adopt-me,Reindeer Stroller,reindeer-stroller,2026-10-06,2,0
+adopt-me,Respectful Mustache,respectful-mustache,2026-10-06,1,0
+adopt-me,Retired Egg,retired-egg,2026-10-06,25,2
+adopt-me,RGB UFO,rgb-ufo,2026-10-06,1,0
+adopt-me,Rhino,rhino,2026-10-06,1,1
+adopt-me,Ribbon Seal,ribbon-seal,2026-10-06,3,0
+adopt-me,Ribcage Carriage,ribcage-carriage,2026-10-06,1,0
+adopt-me,Rice Cake Rabbit,rice-cake-rabbit,2026-10-06,1,0
+adopt-me,Ring-tailed Lemur,ring-tailed-lemur,2026-10-06,8,3
+adopt-me,River Otter,river-otter,2026-10-06,4,2
+adopt-me,Robin,robin,2026-10-06,5,0
+adopt-me,Robo Dog,robo-dog,2026-10-06,1,1
+adopt-me,Robot,robot,2026-10-06,2,0
+adopt-me,Rock,rock,2026-10-06,1,0
+adopt-me,Rock Pigeon,rock-pigeon,2026-10-06,2,1
+adopt-me,Rooster,rooster,2026-10-06,1,2
+adopt-me,Rose Dragon,rose-dragon,2026-10-06,5,1
+adopt-me,Rosy Maple Moth,rosy-maple-moth,2026-10-06,1,0
+adopt-me,Royal Egg,royal-egg,2026-10-06,1,0
+adopt-me,Royal Fairytale Egg,royal-fairytale-egg,2026-10-06,3,0
+adopt-me,Royal Mistletroll,royal-mistletroll,2026-10-06,4,2
+adopt-me,Royal Palace Spaniel,royal-palace-spaniel,2026-10-06,2,1
+adopt-me,Rubber Ducky,rubber-ducky,2026-10-06,3,0
+adopt-me,Ruddy Duck,ruddy-duck,2026-10-06,0,2
+adopt-me,Ruff,ruff,2026-10-06,1,0
+adopt-me,Sabertooth,sabertooth,2026-10-06,1,0
+adopt-me,Sado Mole,sado-mole,2026-10-06,1,0
+adopt-me,Safari Egg,safari-egg,2026-10-06,0,1
+adopt-me,Sakura Spirit,sakura-spirit,2026-10-06,5,3
+adopt-me,Sakura Wings,sakura-wings,2026-10-06,1,0
+adopt-me,Salamander,salamander,2026-10-06,1,0
+adopt-me,Samoyed,samoyed,2026-10-06,2,2
+adopt-me,Sandfish,sandfish,2026-10-06,0,1
+adopt-me,Sandwich Hat,sandwich-hat,2026-10-06,3,0
+adopt-me,Santa Hat,santa-hat,2026-10-06,0,2
+adopt-me,Santa's Bow,santas-bow,2026-10-06,1,0
+adopt-me,Santa's Sleigh,santas-sleigh,2026-10-06,3,0
+adopt-me,Sasquatch,sasquatch,2026-10-06,10,1
+adopt-me,Scarebear,scarebear,2026-10-06,9,10
+adopt-me,Scarebear Stroller,scarebear-stroller,2026-10-06,1,0
+adopt-me,Scarecrow Box,scarecrow-box,2026-10-06,0,1
+adopt-me,Scarecrow Cat,scarecrow-cat,2026-10-06,2,1
+adopt-me,Scarecrow Crow,scarecrow-crow,2026-10-06,2,0
+adopt-me,Scarecrow Horse,scarecrow-horse,2026-10-06,1,1
+adopt-me,Scarlet Butterfly,scarlet-butterfly,2026-10-06,8,1
+adopt-me,Scorching Kaijunior,scorching-kaijunior,2026-10-06,2,2
+adopt-me,Sea Angel,sea-angel,2026-10-06,3,0
+adopt-me,Sea Skeleton Panda,sea-skeleton-panda,2026-10-06,3,1
+adopt-me,Sea Slug,sea-slug,2026-10-06,10,6
+adopt-me,Sea Turtle,sea-turtle,2026-10-06,4,2
+adopt-me,Seabed Creeper,seabed-creeper,2026-10-06,0,2
+adopt-me,Seafoam Butterfly,seafoam-butterfly,2026-10-06,1,0
+adopt-me,Seahorse,seahorse,2026-10-06,3,0
+adopt-me,Shadow Dragon,shadow-dragon,2026-10-06,10,31
+adopt-me,Shadow Dragon Animated Sticker,shadow-dragon-animated-sticker,2026-10-06,0,1
+adopt-me,Shadow Dragon Ducky,shadow-dragon-ducky,2026-10-06,10,0
+adopt-me,Shadow Dragon Skateboard,shadow-dragon-skateboard,2026-10-06,1,0
+adopt-me,Shark,shark,2026-10-06,4,2
+adopt-me,Shark Puppy,shark-puppy,2026-10-06,25,6
+adopt-me,Shark Puppy Sticker,shark-puppy-sticker,2026-10-06,1,0
+adopt-me,Shark Swimcap,shark-swimcap,2026-10-06,1,0
+adopt-me,Sheeeeep,sheeeeep,2026-10-06,5,7
+adopt-me,Sheepdog Ducky,sheepdog-ducky,2026-10-06,6,0
+adopt-me,Shetland Pony Dark Brown,shetland-pony-dark-brown,2026-10-06,1,1
+adopt-me,Shetland Pony White,shetland-pony-white,2026-10-06,0,1
+adopt-me,Shiba Inu,shiba-inu,2026-10-06,6,0
+adopt-me,Shih Tzu,shih-tzu,2026-10-06,4,0
+adopt-me,Shiver Wolf,shiver-wolf,2026-10-06,3,6
+adopt-me,Shooting Star Board,shooting-star-board,2026-10-06,0,1
+adopt-me,Show Pony,show-pony,2026-10-06,5,0
+adopt-me,Shrew,shrew,2026-10-06,8,3
+adopt-me,Siamese Cat,siamese-cat,2026-10-06,36,22
+adopt-me,Silly Duck,silly-duck,2026-10-06,3,1
+adopt-me,Silverback Gorilla,silverback-gorilla,2026-10-06,17,5
+adopt-me,Singularity Beetle,singularity-beetle,2026-10-06,0,1
+adopt-me,Skele-Rex,skele-rex,2026-10-06,7,3
+adopt-me,Skelebat,skelebat,2026-10-06,1,1
+adopt-me,Skunk,skunk,2026-10-06,1,1
+adopt-me,Slime,slime,2026-10-06,8,3
+adopt-me,Slimingo,slimingo,2026-10-06,1,7
+adopt-me,Sloth,sloth,2026-10-06,3,0
+adopt-me,Slug,slug,2026-10-06,2,0
+adopt-me,S'mores Raccoon,smores-raccoon,2026-10-06,6,1
+adopt-me,Sneak Weasel,sneak-weasel,2026-10-06,2,0
+adopt-me,Snorgle,snorgle,2026-10-06,1,0
+adopt-me,Snow Cloud Wings,snow-cloud-wings,2026-10-06,1,1
+adopt-me,Snow Leopard,snow-leopard,2026-10-06,0,2
+adopt-me,Snow Monkey,snow-monkey,2026-10-06,0,2
+adopt-me,Snow Owl,snow-owl,2026-10-06,2,2
+adopt-me,Snowball Pet,snowball-pet,2026-10-06,6,2
+adopt-me,Snowball Pug,snowball-pug,2026-10-06,1,5
+adopt-me,Snowman,snowman,2026-10-06,3,0
+adopt-me,Snowy Mammoth,snowy-mammoth,2026-10-06,2,0
+adopt-me,Solaris,solaris,2026-10-06,3,1
+adopt-me,Southeast Asia Egg,southeast-asia-egg,2026-10-06,1,0
+adopt-me,Space Whale,space-whale,2026-10-06,2,1
+adopt-me,Spinosaurus,spinosaurus,2026-10-06,1,0
+adopt-me,Spring Bunny Feet,spring-bunny-feet,2026-10-06,20,2
+adopt-me,Spring Bunny Hood,spring-bunny-hood,2026-10-06,44,7
+adopt-me,Spring Bunny Nose,spring-bunny-nose,2026-10-06,11,1
+adopt-me,Squid,squid,2026-10-06,6,0
+adopt-me,Squirrel Car,squirrel-car,2026-10-06,1,0
+adopt-me,SSBD Beanie,ssbd-beanie,2026-10-06,2,0
+adopt-me,St Bernard,st-bernard,2026-10-06,1,0
+adopt-me,Star Sunglasses,star-sunglasses,2026-10-06,4,0
+adopt-me,Starfish,starfish,2026-10-06,2,0
+adopt-me,Starmite,starmite,2026-10-06,1,0
+adopt-me,Stegosaurus,stegosaurus,2026-10-06,1,0
+adopt-me,Stingray,stingray,2026-10-06,2,0
+adopt-me,Storm Condor,storm-condor,2026-10-06,1,0
+adopt-me,Strawberry Clip,strawberry-clip,2026-10-06,1,0
+adopt-me,Strawberry Cupcake Shoes,strawberry-cupcake-shoes,2026-10-06,1,0
+adopt-me,Strawberry Penguin,strawberry-penguin,2026-10-06,11,1
+adopt-me,Strawberry Shortcake Bat Dragon,strawberry-shortcake-bat-dragon,2026-10-06,86,54
+adopt-me,Strawberry Shortcake Bat Dragon Backpack,strawberry-shortcake-bat-dragon-backpack,2026-10-06,3,0
+adopt-me,Strawberry Shortcake Bow,strawberry-shortcake-bow,2026-10-06,5,0
+adopt-me,Strawberry Shortcake Ducky,strawberry-shortcake-ducky,2026-10-06,3,0
+adopt-me,Strawberry Stroller,strawberry-stroller,2026-10-06,7,0
+adopt-me,Strawberry Toast Flying Disc,strawberry-toast-flying-disc,2026-10-06,1,0
+adopt-me,Strawberry Tortle,strawberry-tortle,2026-10-06,10,9
+adopt-me,Stygian Owl,stygian-owl,2026-10-06,6,1
+adopt-me,Subzero Scorpion,subzero-scorpion,2026-10-06,1,0
+adopt-me,Sugar Axolotl,sugar-axolotl,2026-10-06,12,1
+adopt-me,Sugar Glider,sugar-glider,2026-10-06,21,15
+adopt-me,Summer Walrus,summer-walrus,2026-10-06,1,0
+adopt-me,Sunflower Friend,sunflower-friend,2026-10-06,0,1
+adopt-me,Sunglider,sunglider,2026-10-06,1,0
+adopt-me,Sunrise Hang Glider,sunrise-hang-glider,2026-10-06,2,0
+adopt-me,Super Saru,super-saru,2026-10-06,1,1
+adopt-me,Sushi Penguin,sushi-penguin,2026-10-06,8,2
+adopt-me,SUV,suv,2026-10-06,1,0
+adopt-me,Swan,swan,2026-10-06,6,1
+adopt-me,Sweetheart Rat,sweetheart-rat,2026-10-06,2,5
+adopt-me,Swordfish,swordfish,2026-10-06,2,0
+adopt-me,T-Rex,t-rex,2026-10-06,5,0
+adopt-me,Tan Chow-Chow,tan-chow-chow,2026-10-06,2,1
+adopt-me,Tanuki,tanuki,2026-10-06,3,1
+adopt-me,Tarantula,tarantula,2026-10-06,2,0
+adopt-me,Tarsier,tarsier,2026-10-06,3,1
+adopt-me,Tasmanian Devil,tasmanian-devil,2026-10-06,2,1
+adopt-me,Tasmanian Tiger,tasmanian-tiger,2026-10-06,1,0
+adopt-me,Tea Party Chair,tea-party-chair,2026-10-06,1,0
+adopt-me,Tea Party Set,tea-party-set,2026-10-06,1,0
+adopt-me,Tealwood Monster,tealwood-monster,2026-10-06,3,1
+adopt-me,Tegu,tegu,2026-10-06,1,0
+adopt-me,Therapy Dog,therapy-dog,2026-10-06,6,0
+adopt-me,Thinking Hat,thinking-hat,2026-10-06,2,0
+adopt-me,Three Blind Mice,three-blind-mice,2026-10-06,8,1
+adopt-me,Throwback Egg,throwback-egg,2026-10-06,10,0
+adopt-me,Tiffany,tiffany,2026-10-06,0,1
+adopt-me,Tiny Wings,tiny-wings,2026-10-06,24,10
+adopt-me,Toaster Hat,toaster-hat,2026-10-06,11,2
+adopt-me,Toasty Red Panda,toasty-red-panda,2026-10-06,1,2
+adopt-me,Tombstone Ghostify,tombstone-ghostify,2026-10-06,1,1
+adopt-me,Tortoiseshell Guinea Pig,tortoiseshell-guinea-pig,2026-10-06,5,2
+adopt-me,Tortuga de la Isla,tortuga-de-la-isla-sticker,2026-10-06,6,1
+adopt-me,Tortuga de la Isla,tortuga-de-la-isla-sticker,2026-10-06,6,1
+adopt-me,Toucan,toucan,2026-10-06,6,0
+adopt-me,Toy Monkey,toy-monkey,2026-10-06,3,0
+adopt-me,Toy Poodle,toy-poodle,2026-10-06,4,0
+adopt-me,Toyshop House,toyshop-house,2026-10-06,1,0
+adopt-me,Trapdoor Snail,trapdoor-snail,2026-10-06,1,1
+adopt-me,Tree Decorating Animated Sticker,tree-decorating-animated-sticker,2026-10-06,1,0
+adopt-me,Tree Frog,tree-frog,2026-10-06,1,0
+adopt-me,Tree Kangaroo,tree-kangaroo,2026-10-06,3,2
+adopt-me,Tri-horned Treehopper,tri-horned-treehopper,2026-10-06,0,1
+adopt-me,Triceratops,triceratops,2026-10-06,1,0
+adopt-me,Triple Stroller,triple-stroller,2026-10-06,2,0
+adopt-me,Tulip Stroller,tulip-stroller,2026-10-06,1,0
+adopt-me,Turkey,turkey,2026-10-06,10,2
+adopt-me,Turkey Plush,turkey-plush,2026-10-06,1,0
+adopt-me,Turtle,turtle,2026-10-06,52,24
+adopt-me,Tutu,tutu,2026-10-06,3,3
+adopt-me,Tuxedo Cat,tuxedo-cat,2026-10-06,10,2
+adopt-me,Undead Elk,undead-elk,2026-10-06,0,2
+adopt-me,Undead Jousting Horse,undead-jousting-horse,2026-10-06,20,1
+adopt-me,Unfortunate Eyelashes,unfortunate-eyelashes,2026-10-06,5,0
+adopt-me,Unicorn,unicorn,2026-10-06,19,20
+adopt-me,Unicorn Backpack,unicorn-backpack,2026-10-06,2,3
+adopt-me,Unicorn Ducky,unicorn-ducky,2026-10-06,2,0
+adopt-me,Unicorn Horn,unicorn-horn,2026-10-06,32,14
+adopt-me,Unicorn Stroller,unicorn-stroller,2026-10-06,1,0
+adopt-me,Urban Egg,urban-egg,2026-10-06,1,0
+adopt-me,Urchin,urchin,2026-10-06,6,0
+adopt-me,Vampire Dragon,vampire-dragon,2026-10-06,19,7
+adopt-me,Vampire Stroller,vampire-stroller,2026-10-06,0,1
+adopt-me,Vanilla Penguin,vanilla-penguin,2026-10-06,3,2
+adopt-me,Velocirooster,velocirooster,2026-10-06,24,2
+adopt-me,Vermilion Butterfly,vermilion-butterfly,2026-10-06,1,1
+adopt-me,Villain Gibbon,villain-gibbon,2026-10-06,1,0
+adopt-me,Violet Butterfly,violet-butterfly,2026-10-06,2,0
+adopt-me,Violet Friend,violet-friend,2026-10-06,2,0
+adopt-me,Vol. 2 Pets Plus Sticker Pack,vol-2-pets-plus-sticker-pack,2026-10-06,2,1
+adopt-me,Waffle Wyrm,waffle-wyrm,2026-10-06,1,1
+adopt-me,Warthog,warthog,2026-10-06,1,0
+adopt-me,Water Moon Bear,water-moon-bear,2026-10-06,3,0
+adopt-me,Water Opossum,water-opossum,2026-10-06,2,1
+adopt-me,Water Rabbit,water-rabbit,2026-10-06,5,7
+adopt-me,"Well, Actually Walrus Sticker",well-actually-walrus-sticker,2026-10-06,0,1
+adopt-me,Werewolf,werewolf,2026-10-06,40,20
+adopt-me,White Amazon,white-amazon,2026-10-06,3,1
+adopt-me,White Choccybunny,white-choccybunny,2026-10-06,4,0
+adopt-me,White Sand Dollar,white-sand-dollar,2026-10-06,0,1
+adopt-me,White Snowboard,white-snowboard,2026-10-06,1,0
+adopt-me,Wild Boar,wild-boar,2026-10-06,2,1
+adopt-me,Winged Horse,winged-horse,2026-10-06,7,1
+adopt-me,Winged Tiger,winged-tiger,2026-10-06,6,6
+adopt-me,Winter Buck,winter-buck,2026-10-06,1,0
+adopt-me,Winter Deer Family Sticker,winter-deer-family-sticker,2026-10-06,1,0
+adopt-me,Winter Doe,winter-doe,2026-10-06,2,0
+adopt-me,Winter Fawn,winter-fawn,2026-10-06,4,1
+adopt-me,Witch Hat,witch-hat,2026-10-06,0,2
+adopt-me,Witch's Caravan,witchs-caravan,2026-10-06,2,0
+adopt-me,Wolf,wolf,2026-10-06,1,2
+adopt-me,Wolpertinger,wolpertinger,2026-10-06,5,0
+adopt-me,Wood Pigeon,wood-pigeon,2026-10-06,1,2
+adopt-me,Wood Skateboard,wood-skateboard,2026-10-06,1,0
+adopt-me,Woodpecker,woodpecker,2026-10-06,2,0
+adopt-me,Woolly Mammoth,woolly-mammoth,2026-10-06,1,0
+adopt-me,Wrapped Doll,wrapped-doll-egg,2026-10-06,1,0
+adopt-me,Wren,wren,2026-10-06,1,1
+adopt-me,Wyvern,wyvern,2026-10-06,1,0
+adopt-me,Yellow Butterfly,yellow-butterfly,2026-10-06,2,0
+adopt-me,Yeti,yeti,2026-10-06,4,3
+adopt-me,Yule Log Dog,yule-log-dog,2026-10-06,6,2
+adopt-me,Zebra,zebra,2026-10-06,1,0
+adopt-me,Zeopod,zeopod,2026-10-06,1,0
+adopt-me,Zodiac Minion Chick,zodiac-minion-chick,2026-10-06,2,0
+adopt-me,Zombie Buffalo,zombie-buffalo,2026-10-06,7,11
+adopt-me,Zombie Chick,zombie-chick,2026-10-06,1,1
+adopt-me,Zombie Wolf,zombie-wolf,2026-10-06,15,14
+adopt-me,Ride-A-Pet Potion,,2026-10-06,259,
+adopt-me,Kitty Biscuit,,2026-10-06,12,
+adopt-me,Candy Cane (Pet Wear),,2026-10-06,0,
+adopt-me,Fly-A-Pet Potion,,2026-10-06,171,
+adopt-me,Tropical Surge Mega Neon Paint,,2026-10-06,2,
+adopt-me,White Chef Hat,,2026-10-06,7,
+adopt-me,Amethyst Skies Mega Neon Paint,,2026-10-06,1,
+adopt-me,Ring-Tailed Lemur,,2026-10-06,8,
+adopt-me,Rose Quartz Glow Mega Neon Paint,,2026-10-06,3,
+adopt-me,Mrs. Whiskerpips,,2026-10-06,5,
+adopt-me,Cherry-On-Top,,2026-10-06,10,
+adopt-me,Aestus Mane,,2026-10-06,0,
+adopt-me,Black Dog,,2026-10-06,2,
+adopt-me,Malaysian Tapir,,2026-10-06,0,
 ftf,2019,2019,2026-08-28,1,
 ftf,2023,2023,2026-08-28,1,
 ftf,7th Anniversary,7th-anniversary,2026-08-28,1,
